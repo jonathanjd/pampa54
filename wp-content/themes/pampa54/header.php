@@ -27,7 +27,9 @@
     <link rel="stylesheet" href="<?php echo get_template_directory_uri();?>/assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
     <link rel="stylesheet" href="<?php echo get_template_directory_uri();?>/assets/vendors/swiper/css/swiper-bundle.min.css" />
     <link rel="stylesheet" href="<?php echo get_template_directory_uri();?>/assets/css/style.css" />
-	<?php wp_head(); ?>
+	
+    <?php wp_head(); ?>
+
 </head>
 
 <body class="custom-cursor">
