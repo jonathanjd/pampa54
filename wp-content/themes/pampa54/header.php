@@ -1,4 +1,3 @@
-<?php /* Template Name: Our Company */ ?>
 <!DOCTYPE html>
 <html lang="en">
 
