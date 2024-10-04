@@ -1,4 +1,4 @@
-<?php /* Template Name: brand Purpose */ ?>
+<?php /* Template Name: Brand Purpose */ ?>
 <?php get_header(); ?>
         <section class="page-header">
             <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
