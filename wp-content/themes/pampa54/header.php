@@ -93,19 +93,19 @@
                                         <a href="<?php echo _HOMEURL_; ?>">Home</a>
                                     </li>
 									<li class="dropdown active">
-                                        <a href="about.html">About us</a>
+                                        <a href="<?php echo _ABOUTURL_; ?>">About us</a>
                                         <ul>
                                             <li><a href="<?php echo _OURCOMPANYURL_; ?>">Our Company</a></li>
-                                            <li><a href="founder.html">Founder</a></li>
-                                            <li><a href="news.html">News</a></li>
+                                            <li><a href="<?php echo _FOUNDERURL_; ?>">Founder</a></li>
+                                            <li><a href="<?php echo _NEWSURL_; ?>">News</a></li>
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="pampa54.html">Pampa54</a>
+                                        <a href="<?php echo _PAMPA54URL_; ?>">Pampa54</a>
                                         <ul>
-                                            <li><a href="manifesto.html">Manifesto</a></li>
-                                            <li><a href="brand_purpose.html">Brand Purpose</a></li>
-                                            <li><a href="benefits.html">Benefits</a></li>
+                                            <li><a href="<?php echo _MANIFESTOURL_; ?>">Manifesto</a></li>
+                                            <li><a href="<?php echo _BRANDPURPOSEURL_; ?>">Brand Purpose</a></li>
+                                            <li><a href="<?php echo _BENEFITSURL_; ?>">Benefits</a></li>
                                         </ul>
                                     </li>
 									<li class="dropdown">

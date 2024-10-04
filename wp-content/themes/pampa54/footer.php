@@ -22,8 +22,8 @@ marbling, tenderness, and rich flavor. We ensure that each cut meets our rigorou
                                 <h2 class="footer-widget__title">Explore</h2>
                                 <ul class="list-unstyled footer-widget__links">
 									<li>- <a href="<?php echo _HOMEURL_; ?>">Home</a></li>
-                                    <li>- <a href="about.html">About Us</a></li>
-                                    <li>- <a href="pampa54.html">Pampa54</a></li>
+                                    <li>- <a href="<?php echo _ABOUTURL_; ?>">About Us</a></li>
+                                    <li>- <a href="<?php echo _PAMPA54URL_; ?>">Pampa54</a></li>
                                     <li>- <a href="products.html">Products</a></li>
                                     <li>- <a href="contact.html">Contact Us</a></li>
                                     
