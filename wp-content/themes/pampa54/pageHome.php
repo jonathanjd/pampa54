@@ -50,7 +50,7 @@ shared experience of savoring our authentic Argentinean chorizos.</p>
                             </div>
                             
                             <div class="about-three__bottom">
-                                <a href="about.html" class="pampa-btn">
+                                <a href="<?php echo _ABOUTURL_; ?>" class="pampa-btn">
                                     <span class="pampa-btn__hover"></span>
                                     <span class="pampa-btn__hover"></span>
                                     <span class="pampa-btn__hover"></span>

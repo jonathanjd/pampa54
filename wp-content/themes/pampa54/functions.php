@@ -23,6 +23,13 @@ define( '_FACEBOOK_', '#' );
 
 define( '_HOMEURL_', '/' );
 define( '_OURCOMPANYURL_', '/ourcompany' );
+define( '_FOUNDERURL_', '/founder' );
+define( '_NEWSURL_', '/news' );
+define( '_PAMPA54URL_', '/pampa54' );
+define( '_MANIFESTOURL_', '/manifesto' );
+define( '_BRANDPURPOSEURL_', '/brand-purpose' );
+define( '_BENEFITSURL_', '/benefits' );
+define( '_ABOUTURL_', '/about' );
 
 /**
  * Sets up theme defaults and registers support for various WordPress features.
