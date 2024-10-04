@@ -21,8 +21,14 @@ define( '_TWITTER_', '#' );
 define( '_YOUTUBE_', '#' );
 define( '_FACEBOOK_', '#' );
 
-define( '_HOMEURL_', '/' );
+define( '_HOMEURL_', 'pampa54/pagina-ejemplo' );
 define( '_OURCOMPANYURL_', '/ourcompany' );
+define( '_SAUSAGEURL_', 'pampa54/sausage' );
+define( '_MEATCUTSURL_', 'pampa54/meat-cuts' );
+define( '_OTHERSURL_', 'pampa54/others' );
+define( '_CATALOGSURL_', 'pampa54/catalogs' );
+define( '_CONTACTURL_', 'pampa54/contact-us' );
+
 
 /**
  * Sets up theme defaults and registers support for various WordPress features.
