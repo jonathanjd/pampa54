@@ -21,16 +21,14 @@ define( '_TWITTER_', '#' );
 define( '_YOUTUBE_', '#' );
 define( '_FACEBOOK_', '#' );
 
-define( '_HOMEURL_', 'pampa54/pagina-ejemplo' );
+define( '_HOMEURL_', '/' );
 define( '_OURCOMPANYURL_', '/ourcompany' );
-<<<<<<< HEAD
 define( '_SAUSAGEURL_', 'pampa54/sausage' );
 define( '_MEATCUTSURL_', 'pampa54/meat-cuts' );
 define( '_OTHERSURL_', 'pampa54/others' );
 define( '_CATALOGSURL_', 'pampa54/catalogs' );
 define( '_CONTACTURL_', 'pampa54/contact-us' );
 
-=======
 define( '_FOUNDERURL_', '/founder' );
 define( '_NEWSURL_', '/news' );
 define( '_PAMPA54URL_', '/pampa54' );
@@ -38,7 +36,6 @@ define( '_MANIFESTOURL_', '/manifesto' );
 define( '_BRANDPURPOSEURL_', '/brand-purpose' );
 define( '_BENEFITSURL_', '/benefits' );
 define( '_ABOUTURL_', '/about' );
->>>>>>> develop
 
 /**
  * Sets up theme defaults and registers support for various WordPress features.
