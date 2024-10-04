@@ -126,7 +126,7 @@ experience of savoring our authentic Argentinean chorizos.</p>
                         <div class="team-two__item__bg"></div>
                         <div class="row gutter-y-20 align-items-center">
                             <div class="col-xl-3 col-lg-6">
-                                <h3 class="team-two__name"><a href="sausages.html">Sausages</a></h3>
+                                <h3 class="team-two__name"><a href="<?php echo _SAUSAGEURL_; ?>">Sausages</a></h3>
                             </div>
                             <div class="col-xl-5 col-lg-3">
                                 <span class="team-two__designation" style="text-transform: none;">Each bite reveals the result of a time-honored process, meticulously perfected over the years. The distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor that resonates with the smoky allure of an authentic Argentine asado. </span>
@@ -142,7 +142,7 @@ experience of savoring our authentic Argentinean chorizos.</p>
                         <div class="team-two__item__bg"></div>
                         <div class="row gutter-y-20 align-items-center">
                             <div class="col-xl-3 col-lg-6">
-                                <h3 class="team-two__name"><a href="meat_cuts.html">Meat Cuts</a></h3>
+                                <h3 class="team-two__name"><a href="<?php echo _MEATCUTSURL_; ?>">Meat Cuts</a></h3>
                             </div>
                             <div class="col-xl-5 col-lg-3">
                                 <span class="team-two__designation" style="text-transform: none;">At <strong>PAMPA54</strong>, we pride ourselves on offering only the highest quality meat products. Our selection features the renowned Argentine Angus beef, celebrated globally for its superior marbling, tenderness, and rich flavor. We ensure that each cut meets our rigorous standards.</span>
@@ -158,7 +158,7 @@ experience of savoring our authentic Argentinean chorizos.</p>
                         <div class="team-two__item__bg"></div>
                         <div class="row gutter-y-20 align-items-center">
                             <div class="col-xl-3 col-lg-6">
-                                <h3 class="team-two__name"><a href="others.html">Others</a></h3>
+                                <h3 class="team-two__name"><a href="<?php echo _OTHERSURL_; ?>">Others</a></h3>
                             </div>
                             <div class="col-xl-5 col-lg-3">
                                 <span class="team-two__designation" style="text-transform: none;">Each bite reveals the result of a time-honored process, meticulously perfected over the years. The distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor that resonates with the smoky allure of an authentic Argentine asado. </span>

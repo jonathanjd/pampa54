@@ -53,7 +53,7 @@
                     </ul>
                     <div class="topbar__right">
                         <ul class="list-unstyled topbar__pages">
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="<?php echo _CONTACTURL_; ?>">Contact</a></li>
 							<li style="color:#cbb17c;">Español</li>
                         </ul>
                         <div class="topbar__social">
@@ -108,16 +108,16 @@
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="products.html">Products</a>
+                                        <a href="<?php echo _PRODUCTSURL_; ?>">Products</a>
                                         <ul>
-                                            <li><a href="sausages.html">Sausages</a></li>
-                                            <li><a href="meat_cuts.html">Meat Cuts</a></li>
-                                            <li><a href="others.html">Others</a></li>
-											<li><a href="catalogs.html">Catalogs</a></li>
+                                            <li><a href="<?php echo _SAUSAGEURL_; ?>">Sausages</a></li>
+                                            <li><a href="<?php echo _MEATCUTSURL_; ?>">Meat Cuts</a></li>
+                                            <li><a href="<?php echo _OTHERSURL_; ?>">Others</a></li>
+											<li><a href="<?php echo _CATALOGSURL_; ?>">Catalogs</a></li>
                                         </ul>
                                     </li> 
                                     <li>
-                                        <a href="contact.html">Contact Us</a>
+                                        <a href="<?php echo _CONTACTURL_; ?>">Contact Us</a>
                                     </li>
                                 </ul>
                             </nav>
