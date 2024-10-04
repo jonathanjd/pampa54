@@ -12,6 +12,18 @@ if ( ! defined( '_S_VERSION' ) ) {
 	define( '_S_VERSION', '1.0.0' );
 }
 
+define( '_EMAIL_', 'info@pampa54.com' );
+define( '_PHONE_', '+1 (786) 326-9846' );
+define( '_ADDRESS_', '5930 NW 99th Ave, Suite 11. Doral, Fl 33178. United States' );
+
+define( '_INSTAGRAM_', '#' );
+define( '_TWITTER_', '#' );
+define( '_YOUTUBE_', '#' );
+define( '_FACEBOOK_', '#' );
+
+define( '_HOMEURL_', '/' );
+define( '_OURCOMPANYURL_', '/ourcompany' );
+
 /**
  * Sets up theme defaults and registers support for various WordPress features.
  *
@@ -175,4 +187,3 @@ require get_template_directory() . '/inc/customizer.php';
 if ( defined( 'JETPACK__VERSION' ) ) {
 	require get_template_directory() . '/inc/jetpack.php';
 }
-
