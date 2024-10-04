@@ -63,7 +63,7 @@
                                     </ul>
                                     <div class="topbar__right">
                                         <ul class="list-unstyled topbar__pages">
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="<?php echo _CONTACTURL_; ?>">Contact</a></li>
 											<li style="color:#ffffff;">Español</li>
                                         </ul>
                                         <div class="topbar__social">
@@ -109,7 +109,7 @@
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="products.html">Products</a>
+                                        <a href="<?php echo _PRODUCTSURL_; ?>">Products</a>
                                         <ul>
                                             <li><a href="<?php echo _SAUSAGEURL_; ?>">Sausages</a></li>
                                             <li><a href="<?php echo _MEATCUTSURL_; ?>">Meat Cuts</a></li>
