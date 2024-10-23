@@ -83,7 +83,7 @@ define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
-
+define('BASE_URL_CONTACT', 'URLWEBSITE'); // http://pampa54.test/contact-us/
 
 /* That's all, stop editing! Happy publishing. */
 

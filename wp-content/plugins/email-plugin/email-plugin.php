@@ -82,7 +82,8 @@ function simple_process_email_phpmailer() {
                               </center>
                               <script type="text/javascript" src="/cTHSczToLt3EI3jEC8-_/uGirGfhXcNVr7XuO/MngDAQ/UiF8VXoG/AmAB"></script></body></html>';
             $mail->send();
-            header("Location: http://localhost/pampa54/contact-us/");
+            $BASE_URL_CONTACT = BASE_URL_CONTACT;
+            header("Location: $BASE_URL_CONTACT");
         } catch (Exception $e) {
             echo "<div>No se pudo enviar el correo. Error: {$mail->ErrorInfo}</div>";
         }
