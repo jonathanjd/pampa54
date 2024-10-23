@@ -53,7 +53,7 @@
                     </ul>
                     <div class="topbar__right">
                         <ul class="list-unstyled topbar__pages">
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="<?php echo _CONTACTURL_; ?>">Contact</a></li>
 							<li style="color:#cbb17c;">Español</li>
                         </ul>
                         <div class="topbar__social">
@@ -108,7 +108,7 @@
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="products.html">Products</a>
+                                        <a href="<?php echo _PRODUCTSURL_; ?>">Products</a>
                                         <ul>
                                             <li><a href="<?php echo _SAUSAGEURL_; ?>">Sausages</a></li>
                                             <li><a href="<?php echo _MEATCUTSURL_; ?>">Meat Cuts</a></li>
@@ -158,7 +158,7 @@
 	    }'>
                 <div class="item">
                     <div class="hero-slider-two__item">
-                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slider-2-1.jpg);"></div>
+                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slider-2-3.jpg);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-xxl-12 col-xl-10 col-lg-10 mx-auto">
@@ -179,7 +179,7 @@
                 </div>
                 <div class="item">
                     <div class="hero-slider-two__item">
-                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slider-2-2.jpg);"></div>
+                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slider-2-3.jpg);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-xxl-12 col-xl-10 col-lg-10 mx-auto">
