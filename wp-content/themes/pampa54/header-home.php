@@ -179,7 +179,7 @@
                 </div>
                 <div class="item">
                     <div class="hero-slider-two__item">
-                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slider-2-3.jpg);"></div>
+                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slider-2-2.jpg);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-xxl-12 col-xl-10 col-lg-10 mx-auto">
@@ -200,7 +200,7 @@
                 </div>
                 <div class="item">
                     <div class="hero-slider-two__item">
-                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slider-2-3.jpg);"></div>
+                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slider-2-1.jpg);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-xxl-12 col-xl-10 col-lg-10 mx-auto">
