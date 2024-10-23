@@ -19,7 +19,7 @@
                             <h2 class="contact-page__title">Get In Touch</h2>
                             <p class="contact-page__text">Consectetur adipiscing elit phasellus et metus augue. Mauris ut libero eget erat scelerisque vehicula. Phasellus nec blandit metus.</p>
                         </div>
-                        <form action="#" class="contact-page__form form-one">
+                        <form id="emailForm" action="" method="post" class="contact-page__form form-one">
                             <div class="form-one__group">
                                 <div class="form-one__control wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                                     <input type="text" name="name" placeholder="Full Name">
@@ -31,19 +31,19 @@
                                   <input type="text" name="phone" placeholder="Phone">
                                 </div>
                                 <div class="form-one__control wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="50ms">
-                                  <input type="email" name="location" placeholder="Location">
+                                  <input type="text" name="location" placeholder="Location">
                                 </div>								
                                 <div class="form-one__control wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="50ms">
-                                  <input type="email" name="company" placeholder="Company Name">
+                                  <input type="text" name="company" placeholder="Company Name">
                                 </div>
 								<div class="form-one__control wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="50ms">
-                                  <input type="email" name="type" placeholder="Retailer / Restaurant / Food Service">
+                                  <input type="text" name="type" placeholder="Retailer / Restaurant / Food Service">
                                 </div>
                                 <div class="form-one__control form-one__control--full wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
                                   <textarea name="message" placeholder="Reason for contact"></textarea>
                                 </div>
                                 <div class="form-one__control form-one__control--full wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="150ms">
-                                    <button type="submit" class="pampa-btn">
+                                    <button type="submit" name="submit_email" class="pampa-btn">
                                         <span class="pampa-btn__hover"></span>
                                         <span class="pampa-btn__hover"></span>
                                         <span class="pampa-btn__hover"></span>
