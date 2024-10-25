@@ -34,7 +34,7 @@ function simple_process_email_phpmailer() {
         $phone = sanitize_text_field($_POST['phone']);
         $location = sanitize_text_field($_POST['location']);
         $company = sanitize_text_field($_POST['company']);
-        $type = sanitize_text_field($_POST['type']);
+        $type = sanitize_text_field($_POST['contact_type']);
         $message = sanitize_textarea_field($_POST['message']);
 
         $mail = new PHPMailer(true);
@@ -50,6 +50,7 @@ function simple_process_email_phpmailer() {
 
             $mail->setFrom($email, $name);
             $mail->addAddress($email);
+            $mail->addBCC($email);
             $mail->Subject = 'Nuevo mensaje de ' . $name;
 
             $mail->isHTML(true);
