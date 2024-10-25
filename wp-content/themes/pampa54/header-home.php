@@ -89,10 +89,10 @@
                                         <a href="<?php echo _HOMEURL_; ?>">Home</a>
                                     </li>
 									<li class="dropdown">
-                                        <a href="<?php echo _ABOUTURL_; ?>">About us</a>
+                                        <a href="<?php echo _ABOUTURL_; ?>">About us / Our Company</a>
                                         <ul>
-                                            <li><a href="<?php echo _OURCOMPANYURL_; ?>">Our Company</a></li>
-                                            <li><a href="<?php echo _NEWSURL_; ?>">News</a></li>
+                                            <li><a href="<?php echo _DESCRIPTIONURL_; ?>">Description</a></li>
+                                            <li><a href="<?php echo _FEATUREURL_; ?>">Feature</a></li>
                                             <li><a href="<?php echo _MISSIONURL_; ?>">Mission</a></li>
                                         </ul>
                                     </li>
