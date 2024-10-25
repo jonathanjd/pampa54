@@ -16,8 +16,8 @@ define( '_EMAIL_', 'info@pampa54.com' );
 define( '_PHONE_', '+1 (786) 326-9846' );
 define( '_ADDRESS_', '5930 NW 99th Ave, Suite 11. Doral, Fl 33178. United States' );
 
-define( '_INSTAGRAM_', '#' );
-define( '_TWITTER_', '#' );
+define( '_INSTAGRAM_', 'https://www.instagram.com/pampa54_/' );
+define( '_LINKEDIN_', 'https://www.linkedin.com/company/pampa54/' );
 define( '_YOUTUBE_', '#' );
 define( '_FACEBOOK_', '#' );
 
