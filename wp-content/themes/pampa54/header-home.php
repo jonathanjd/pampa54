@@ -107,9 +107,8 @@
 									<li class="dropdown">
                                         <a href="<?php echo _PRODUCTSURL_; ?>">Products</a>
                                         <ul>
-                                            <li><a href="<?php echo _SAUSAGEURL_; ?>">Sausages</a></li>
+                                            <li><a href="<?php echo _CHORIZOURL_; ?>">Chorizo</a></li>
                                             <li><a href="<?php echo _MEATCUTSURL_; ?>">Meat Cuts</a></li>
-                                            <li><a href="<?php echo _OTHERSURL_; ?>">Others</a></li>
 											<li><a href="<?php echo _CATALOGSURL_; ?>">Catalogs</a></li>
                                         </ul>
                                     </li> 

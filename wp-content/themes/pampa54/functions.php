@@ -24,6 +24,7 @@ define( '_FACEBOOK_', '#' );
 define( '_HOMEURL_', '/' );
 define( '_OURCOMPANYURL_', '/ourcompany' );
 define( '_SAUSAGEURL_', '/sausage' );
+define( '_CHORIZOURL_', '/chorizo' );
 define( '_MEATCUTSURL_', '/meat-cuts' );
 define( '_OTHERSURL_', '/others' );
 define( '_CATALOGSURL_', '/catalogs' );
