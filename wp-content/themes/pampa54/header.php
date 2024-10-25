@@ -91,32 +91,36 @@
                                         <a href="<?php echo _HOMEURL_; ?>">Home</a>
                                     </li>
 									<li class="dropdown active">
-                                        <a href="<?php echo _ABOUTURL_; ?>">About us</a>
+                                        <a href="<?php echo _ABOUTURL_; ?>">About us / Our Company</a>
                                         <ul>
-                                            <li><a href="<?php echo _OURCOMPANYURL_; ?>">Our Company</a></li>
-                                            <li><a href="<?php echo _FOUNDERURL_; ?>">Founder</a></li>
-                                            <li><a href="<?php echo _NEWSURL_; ?>">News</a></li>
+                                            <li><a href="<?php echo _DESCRIPTIONURL_; ?>">Description</a></li>
+                                            <li><a href="<?php echo _FEATUREURL_; ?>">Feature</a></li>
+                                            <li><a href="<?php echo _MISSIONURL_; ?>">Mission</a></li>
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="<?php echo _PAMPA54URL_; ?>">Pampa54</a>
+                                        <a href="<?php echo _PAMPA54URL_; ?>">Our Brand / Pampa54</a>
                                         <ul>
-                                            <li><a href="<?php echo _MANIFESTOURL_; ?>">Manifesto</a></li>
-                                            <li><a href="<?php echo _BRANDPURPOSEURL_; ?>">Brand Purpose</a></li>
+                                            <li><a href="<?php echo _HISTORYURL_; ?>">History</a></li>
+                                            <!-- <li><a href="<?php echo _MANIFESTOURL_; ?>">Manifesto</a></li>
+                                            <li><a href="<?php echo _BRANDPURPOSEURL_; ?>">Brand Purpose</a></li> -->
                                             <li><a href="<?php echo _BENEFITSURL_; ?>">Benefits</a></li>
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="<?php echo _PRODUCTSURL_; ?>">Products</a>
+                                        <a href="<?php echo _PRODUCTSURL_; ?>">Our Products</a>
                                         <ul>
-                                            <li><a href="<?php echo _SAUSAGEURL_; ?>">Sausages</a></li>
+                                            <li><a href="<?php echo _CHORIZOURL_; ?>">Chorizo</a></li>
                                             <li><a href="<?php echo _MEATCUTSURL_; ?>">Meat Cuts</a></li>
-                                            <li><a href="<?php echo _OTHERSURL_; ?>">Others</a></li>
 											<li><a href="<?php echo _CATALOGSURL_; ?>">Catalogs</a></li>
                                         </ul>
                                     </li> 
-                                    <li>
+                                    <li class="dropdown">
                                         <a href="<?php echo _CONTACTURL_; ?>">Contact Us</a>
+                                        <ul>
+                                            <li><a href="<?php echo _INFORMATIONURL_; ?>">Information</a></li>
+                                            <li><a href="<?php echo _CONTACTURL_; ?>">Form</a></li>
+                                        </ul>
                                     </li>
                                 </ul>
                                 </nav>

@@ -1,12 +1,12 @@
-<?php /* Template Name: Benefits */ ?>
+<?php /* Template Name: Information */ ?>
 <?php get_header(); ?>
         <section class="page-header">
             <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
             <div class="container">
-                <h2 class="page-header__title">Benefits</h2>
+                <h2 class="page-header__title">Information</h2>
                 <ul class="pampa-breadcrumb list-unstyled">
                     <li><a href="<?php echo _HOMEURL_; ?>">Home</a></li>
-                    <li><span>Our Brand / Pampa54</span></li>
+                    <li><span>Contact Us</span></li>
                 </ul>
             </div>
         </section>
@@ -22,9 +22,9 @@
                         <div class="about-three__content">
                             <div class="sec-title @@extraClassName">
 
-                                <h6 class="sec-title__tagline">Our Brand / Pampa54</h6>
+                                <h6 class="sec-title__tagline">Contact Us</h6>
 
-                                <h2 class="sec-title__title">BENEFITS TITLE</h2>
+                                <h2 class="sec-title__title">INFORMATION</h2>
                             </div>
                             <p class="about-three__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in sem a massa porta ultricies ac vitae tortor. Phasellus eu mattis urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam accumsan nibh vitae orci rutrum, imperdiet suscipit nisi semper. Nunc malesuada mauris ut eros eleifend, eget semper quam lobortis. Nulla commodo nisi ac vehicula pulvinar. Nunc at lacinia nibh, ut suscipit libero. Pellentesque risus augue, iaculis tristique nunc luctus, interdum venenatis tortor. Etiam non pulvinar orci, et condimentum nulla. Fusce malesuada facilisis lorem, sed dignissim felis. Maecenas auctor ullamcorper cursus. Quisque id turpis quis velit placerat molestie sed sed risus. Proin accumsan libero quam. Proin ultrices ex quis felis sollicitudin finibus. </p>
                             
