@@ -44,7 +44,7 @@
                 <div class="main-header__inner">
                     <div class="main-header__logo">
                         <a href="<?php echo _HOMEURL_; ?>">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/logo-light.png" alt="" width="200">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/logo-pampa54.png" alt="" width="200">
                         </a>
                     </div>
                     <div class="main-header__right">

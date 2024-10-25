@@ -31,22 +31,7 @@
 and natural ingredients. Ideal for complementing a asado, it never disappoints. At <strong>PAMPA54</strong>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the 
 shared experience of savoring our authentic Argentinean chorizos.</p>
                             <div class="about-three__info">
-                                <div class="about-three__info__inner">
-                                    <div class="about-three__info__icon">
-                                        <span class="icon-healthcare-1"></span>
-                                    </div>
-                                    <div class="about-three__info__content">
-                                        <h4 class="about-three__info__title">Health Conscious</h4>
-                                    </div>
-                                </div>
-                                <div class="about-three__info__inner">
-                                    <div class="about-three__info__icon">
-                                        <span class="icon-meat"></span>
-                                    </div>
-                                    <div class="about-three__info__content">
-                                        <h4 class="about-three__info__title">Authentic Flavor</h4>
-                                    </div>
-                                </div>
+                                
                             </div>
                             
                             <div class="about-three__bottom">
@@ -78,7 +63,7 @@ shared experience of savoring our authentic Argentinean chorizos.</p>
                             <div class="sec-title @@extraClassName">
                                 <h6 class="sec-title__tagline">Argentinean / Authentic / Gourmet Chorizos</h6>
                                 <h2 class="sec-title__title">Pampa54 The Brand</h2>
-								<p class="why-choose-three__text" style="color:#9a8349;"><strong>Teo Papazian</strong> is not just a name; he is a symbol of excellence in the meat industry. With a legacy spanning decades, Teo's dedication to quality and innovation has shaped <strong>PAMPA54</strong> into a trusted name among meat business. The journey began with a simple yet profound vision – to deliver the finest meat products that reflect the rich culinary heritage of Argentina</p>
+								<!-- <p class="why-choose-three__text" style="color:#9a8349;"><strong>Teo Papazian</strong> is not just a name; he is a symbol of excellence in the meat industry. With a legacy spanning decades, Teo's dedication to quality and innovation has shaped <strong>PAMPA54</strong> into a trusted name among meat business. The journey began with a simple yet profound vision – to deliver the finest meat products that reflect the rich culinary heritage of Argentina</p> -->
                             </div>
                             
                             <div class="row gutter-y-30">
@@ -126,7 +111,7 @@ experience of savoring our authentic Argentinean chorizos.</p>
                         <div class="team-two__item__bg"></div>
                         <div class="row gutter-y-20 align-items-center">
                             <div class="col-xl-3 col-lg-6">
-                                <h3 class="team-two__name"><a href="<?php echo _SAUSAGEURL_; ?>">Sausages</a></h3>
+                                <h3 class="team-two__name"><a href="<?php echo _SAUSAGEURL_; ?>">Chorizos</a></h3>
                             </div>
                             <div class="col-xl-5 col-lg-3">
                                 <span class="team-two__designation" style="text-transform: none;">Each bite reveals the result of a time-honored process, meticulously perfected over the years. The distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor that resonates with the smoky allure of an authentic Argentine asado. </span>
@@ -142,7 +127,7 @@ experience of savoring our authentic Argentinean chorizos.</p>
                         <div class="team-two__item__bg"></div>
                         <div class="row gutter-y-20 align-items-center">
                             <div class="col-xl-3 col-lg-6">
-                                <h3 class="team-two__name"><a href="<?php echo _MEATCUTSURL_; ?>">Meat Cuts</a></h3>
+                                <h3 class="team-two__name"><a href="<?php echo _MEATCUTSURL_; ?>">Beef</a></h3>
                             </div>
                             <div class="col-xl-5 col-lg-3">
                                 <span class="team-two__designation" style="text-transform: none;">At <strong>PAMPA54</strong>, we pride ourselves on offering only the highest quality meat products. Our selection features the renowned Argentine Angus beef, celebrated globally for its superior marbling, tenderness, and rich flavor. We ensure that each cut meets our rigorous standards.</span>
@@ -154,7 +139,7 @@ experience of savoring our authentic Argentinean chorizos.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="team-two__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
+                    <!-- <div class="team-two__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
                         <div class="team-two__item__bg"></div>
                         <div class="row gutter-y-20 align-items-center">
                             <div class="col-xl-3 col-lg-6">
@@ -169,7 +154,7 @@ experience of savoring our authentic Argentinean chorizos.</p>
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>            
         </section>

@@ -77,7 +77,7 @@
                 <div class="main-header__inner">
                     <div class="main-header__logo">
                         <a href="<?php echo _HOMEURL_; ?>">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/logo-light.png" alt="">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/logo-pampa54.png" alt="">
                         </a>
                     </div>
                     <div class="main-header__right">
