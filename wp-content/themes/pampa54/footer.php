@@ -40,18 +40,15 @@ marbling, tenderness, and rich flavor. We ensure that each cut meets our rigorou
                                         <li><span class="icon-phone-call"></span> <a href="tel:+17863269846">+1 (786) 326-9846</a></li>
                                     </ul>
                                     <div class="footer-widget__social">
-                                        <a href="#">
-                                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                            <span class="sr-only">Facebook</span>
-                                        </a>
-                                        <a href="#">
+                                        
+                                        <a href="<?php echo _INSTAGRAM_; ?>">
                                             <i class="fab fa-twitter" aria-hidden="true"></i>
                                             <span class="sr-only">Instagram</span>
                                         </a>                                        
-                                        <a href="#" aria-hidden="true">
-                                            <i class="fab fa-youtube"></i>
-                                            <span class="sr-only">Youtube</span>
-                                        </a>
+                                        <a href="<?php echo _LINKEDIN_; ?>">
+                                <i class="fab fa-linkedin" aria-hidden="true" target="_blank"></i>
+                                <span class="sr-only">LinkedIn</span>
+                            </a>
                                     </div>
                                 </div>
                             </div>
