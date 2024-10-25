@@ -34,7 +34,7 @@
                                 <h5 class="about-one__info-title">DOWNLOAD CATALOG MEAT CUTS PRODUCTS</h5>                                
                             </div>
                             <div class="about-one__bottom">
-                                <a href="#" class="pampa-btn">
+                                <a target="_blank" href="#" class="pampa-btn">
                                     <span class="pampa-btn__hover"></span>
                                     <span class="pampa-btn__hover"></span>
                                     <span class="pampa-btn__hover"></span>
@@ -49,7 +49,7 @@
                                 <h5 class="about-one__info-title">DOWNLOAD CATALOG SAUSAGES PRODUCTS</h5>                                
                             </div>
                             <div class="about-one__bottom">
-                                <a href="#" class="pampa-btn">
+                                <a target="_blank" href="#" class="pampa-btn">
                                     <span class="pampa-btn__hover"></span>
                                     <span class="pampa-btn__hover"></span>
                                     <span class="pampa-btn__hover"></span>
