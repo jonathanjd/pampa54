@@ -92,8 +92,8 @@
                                         <a href="<?php echo _ABOUTURL_; ?>">About us</a>
                                         <ul>
                                             <li><a href="<?php echo _OURCOMPANYURL_; ?>">Our Company</a></li>
-                                            <li><a href="<?php echo _FOUNDERURL_; ?>">Founder</a></li>
                                             <li><a href="<?php echo _NEWSURL_; ?>">News</a></li>
+                                            <li><a href="<?php echo _MISSIONURL_; ?>">Mission</a></li>
                                         </ul>
                                     </li>
 									<li class="dropdown">

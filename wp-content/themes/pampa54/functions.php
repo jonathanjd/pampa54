@@ -31,6 +31,7 @@ define( '_CONTACTURL_', '/contact-us' );
 define( '_PRODUCTSURL_', '/products' );
 
 define( '_FOUNDERURL_', '/founder' );
+define( '_MISSIONURL_', '/mission' );
 define( '_NEWSURL_', '/news' );
 define( '_PAMPA54URL_', '/pampa54' );
 define( '_MANIFESTOURL_', '/manifesto' );
