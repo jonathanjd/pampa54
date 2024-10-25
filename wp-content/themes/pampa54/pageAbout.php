@@ -53,8 +53,7 @@
                         </div>
                     </div>
                     <p class="why-choose-three__text" style="padding-top: 20px;">
-                        PAMPA54 is not just a brand; it's a commitment to delivering an unparalleled gastronomic experience.
-                        Elevate your culinary adventures with the premium quality, homemade heritage, natural ingredients, and unique Argentine flavor of PAMPA54 Authentic Argentinean Chorizo line.
+                    In the heart of Argentina, where the Pampas stretch endlessly, and the art of Asado is a revered tradition, PAMPA54 was bom. A premium brand that encapsulates the spirit of the land, where Asado isn't just a meal; it's a sacred ceremony that unites friends and family. Step into the PAMPA54 experience, where each product is a chapter in the story of Argentine Asado.
                     </p>
                 </div>
                 <div class="col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
