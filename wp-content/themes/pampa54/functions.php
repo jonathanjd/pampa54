@@ -16,14 +16,15 @@ define( '_EMAIL_', 'info@pampa54.com' );
 define( '_PHONE_', '+1 (786) 326-9846' );
 define( '_ADDRESS_', '5930 NW 99th Ave, Suite 11. Doral, Fl 33178. United States' );
 
-define( '_INSTAGRAM_', '#' );
-define( '_TWITTER_', '#' );
+define( '_INSTAGRAM_', 'https://www.instagram.com/pampa54_/' );
+define( '_LINKEDIN_', 'https://www.linkedin.com/company/pampa54/' );
 define( '_YOUTUBE_', '#' );
 define( '_FACEBOOK_', '#' );
 
 define( '_HOMEURL_', '/' );
 define( '_OURCOMPANYURL_', '/ourcompany' );
 define( '_SAUSAGEURL_', '/sausage' );
+define( '_CHORIZOURL_', '/chorizo' );
 define( '_MEATCUTSURL_', '/meat-cuts' );
 define( '_OTHERSURL_', '/others' );
 define( '_CATALOGSURL_', '/catalogs' );
@@ -31,12 +32,17 @@ define( '_CONTACTURL_', '/contact-us' );
 define( '_PRODUCTSURL_', '/products' );
 
 define( '_FOUNDERURL_', '/founder' );
+define( '_MISSIONURL_', '/mission' );
 define( '_NEWSURL_', '/news' );
 define( '_PAMPA54URL_', '/pampa54' );
 define( '_MANIFESTOURL_', '/manifesto' );
 define( '_BRANDPURPOSEURL_', '/brand-purpose' );
 define( '_BENEFITSURL_', '/benefits' );
 define( '_ABOUTURL_', '/about' );
+define( '_DESCRIPTIONURL_', '/description' );
+define( '_FEATUREURL_', '/feature' );
+define( '_HISTORYURL_', '/history' );
+define( '_INFORMATIONURL_', '/information' );
 
 /**
  * Sets up theme defaults and registers support for various WordPress features.

@@ -57,17 +57,14 @@
 							<li style="color:#cbb17c;">Español</li>
                         </ul>
                         <div class="topbar__social">
-                            <a href="<?php echo _FACEBOOK_; ?>">
-                                <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                <span class="sr-only">Facebook</span>
-                            </a>
+                            
                             <a href="<?php echo _INSTAGRAM_; ?>">
-                                <i class="fab fa-instagram" aria-hidden="true"></i>
+                                <i class="fab fa-instagram" aria-hidden="true" target="_blank"></i>
                                 <span class="sr-only">Instagram</span>
                             </a>
-                            <a href="<?php echo _YOUTUBE_; ?>">
-                                <i class="fab fa-youtube" aria-hidden="true"></i>
-                                <span class="sr-only">Youtube</span>
+                            <a href="<?php echo _LINKEDIN_; ?>">
+                                <i class="fab fa-linkedin" aria-hidden="true" target="_blank"></i>
+                                <span class="sr-only">LinkedIn</span>
                             </a>
                         </div>
                     </div>
@@ -80,7 +77,7 @@
                 <div class="main-header__inner">
                     <div class="main-header__logo">
                         <a href="<?php echo _HOMEURL_; ?>">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/logo-light.png" alt="">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/logo-pampa54.png" alt="">
                         </a>
                     </div>
                     <div class="main-header__right">
@@ -92,32 +89,36 @@
                                         <a href="<?php echo _HOMEURL_; ?>">Home</a>
                                     </li>
 									<li class="dropdown">
-                                        <a href="<?php echo _ABOUTURL_; ?>">About us</a>
+                                        <a href="<?php echo _ABOUTURL_; ?>">About us / Our Company</a>
                                         <ul>
-                                            <li><a href="<?php echo _OURCOMPANYURL_; ?>">Our Company</a></li>
-                                            <li><a href="<?php echo _FOUNDERURL_; ?>">Founder</a></li>
-                                            <li><a href="<?php echo _NEWSURL_; ?>">News</a></li>
+                                            <li><a href="<?php echo _DESCRIPTIONURL_; ?>">Description</a></li>
+                                            <li><a href="<?php echo _FEATUREURL_; ?>">Feature</a></li>
+                                            <li><a href="<?php echo _MISSIONURL_; ?>">Mission</a></li>
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="<?php echo _PAMPA54URL_; ?>">Pampa54</a>
+                                        <a href="<?php echo _PAMPA54URL_; ?>">Our Brand / Pampa54</a>
                                         <ul>
-                                            <li><a href="<?php echo _MANIFESTOURL_; ?>">Manifesto</a></li>
-                                            <li><a href="<?php echo _BRANDPURPOSEURL_; ?>">Brand Purpose</a></li>
+                                            <li><a href="<?php echo _HISTORYURL_; ?>">History</a></li>
+                                            <!-- <li><a href="<?php echo _MANIFESTOURL_; ?>">Manifesto</a></li>
+                                            <li><a href="<?php echo _BRANDPURPOSEURL_; ?>">Brand Purpose</a></li> -->
                                             <li><a href="<?php echo _BENEFITSURL_; ?>">Benefits</a></li>
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="<?php echo _PRODUCTSURL_; ?>">Products</a>
+                                        <a href="<?php echo _PRODUCTSURL_; ?>">Our Products</a>
                                         <ul>
-                                            <li><a href="<?php echo _SAUSAGEURL_; ?>">Sausages</a></li>
+                                            <li><a href="<?php echo _CHORIZOURL_; ?>">Chorizo</a></li>
                                             <li><a href="<?php echo _MEATCUTSURL_; ?>">Meat Cuts</a></li>
-                                            <li><a href="<?php echo _OTHERSURL_; ?>">Others</a></li>
 											<li><a href="<?php echo _CATALOGSURL_; ?>">Catalogs</a></li>
                                         </ul>
                                     </li> 
-                                    <li>
+                                    <li class="dropdown">
                                         <a href="<?php echo _CONTACTURL_; ?>">Contact Us</a>
+                                        <ul>
+                                            <li><a href="<?php echo _INFORMATIONURL_; ?>">Information</a></li>
+                                            <li><a href="<?php echo _CONTACTURL_; ?>">Form</a></li>
+                                        </ul>
                                     </li>
                                 </ul>
                             </nav>
@@ -179,7 +180,7 @@
                 </div>
                 <div class="item">
                     <div class="hero-slider-two__item">
-                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slider-2-3.jpg);"></div>
+                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slider-2-2.jpg);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-xxl-12 col-xl-10 col-lg-10 mx-auto">
@@ -200,7 +201,7 @@
                 </div>
                 <div class="item">
                     <div class="hero-slider-two__item">
-                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slider-2-3.jpg);"></div>
+                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slider-2-1.jpg);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-xxl-12 col-xl-10 col-lg-10 mx-auto">

@@ -6,7 +6,7 @@
                 <h2 class="page-header__title">Benefits</h2>
                 <ul class="pampa-breadcrumb list-unstyled">
                     <li><a href="<?php echo _HOMEURL_; ?>">Home</a></li>
-                    <li><span>About us</span></li>
+                    <li><span>Our Brand / Pampa54</span></li>
                 </ul>
             </div>
         </section>
@@ -22,7 +22,7 @@
                         <div class="about-three__content">
                             <div class="sec-title @@extraClassName">
 
-                                <h6 class="sec-title__tagline">THE BRAND PAMPA54</h6>
+                                <h6 class="sec-title__tagline">Our Brand / Pampa54</h6>
 
                                 <h2 class="sec-title__title">BENEFITS TITLE</h2>
                             </div>

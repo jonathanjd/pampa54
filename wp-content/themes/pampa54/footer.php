@@ -4,7 +4,7 @@
                     <div class="row gutter-y-40 align-items-center">
                         <div class="col-md-12 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms" style="text-align: center;">
                             <a href="<?php echo _HOMEURL_; ?>" class="main-footer__logo">
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/logo-light.png" width="243" alt="">
+                                <img src="<?php echo get_template_directory_uri();?>/assets/images/logo-pampa54.png" width="243" alt="">
                             </a>
                         </div>
                     </div>
@@ -40,18 +40,15 @@ marbling, tenderness, and rich flavor. We ensure that each cut meets our rigorou
                                         <li><span class="icon-phone-call"></span> <a href="tel:+17863269846">+1 (786) 326-9846</a></li>
                                     </ul>
                                     <div class="footer-widget__social">
-                                        <a href="#">
-                                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                            <span class="sr-only">Facebook</span>
-                                        </a>
-                                        <a href="#">
+                                        
+                                        <a href="<?php echo _INSTAGRAM_; ?>">
                                             <i class="fab fa-twitter" aria-hidden="true"></i>
                                             <span class="sr-only">Instagram</span>
                                         </a>                                        
-                                        <a href="#" aria-hidden="true">
-                                            <i class="fab fa-youtube"></i>
-                                            <span class="sr-only">Youtube</span>
-                                        </a>
+                                        <a href="<?php echo _LINKEDIN_; ?>">
+                                <i class="fab fa-linkedin" aria-hidden="true" target="_blank"></i>
+                                <span class="sr-only">LinkedIn</span>
+                            </a>
                                     </div>
                                 </div>
                             </div>
@@ -79,7 +76,7 @@ marbling, tenderness, and rich flavor. We ensure that each cut meets our rigorou
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="<?php echo _HOMEURL_; ?>" aria-label=""><img src="<?php echo get_template_directory_uri();?>/assets/images/logo-light.png" width="100" alt="" /></a>
+                <a href="<?php echo _HOMEURL_; ?>" aria-label=""><img src="<?php echo get_template_directory_uri();?>/assets/images/logo-pampa54.png" width="100" alt="" /></a>
             </div>
             <div class="mobile-nav__container"></div>
 
