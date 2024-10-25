@@ -63,7 +63,7 @@ shared experience of savoring our authentic Argentinean chorizos.</p>
                             <div class="sec-title @@extraClassName">
                                 <h6 class="sec-title__tagline">Argentinean / Authentic / Gourmet Chorizos</h6>
                                 <h2 class="sec-title__title">Pampa54 The Brand</h2>
-								<p class="why-choose-three__text" style="color:#9a8349;"><strong>Teo Papazian</strong> is not just a name; he is a symbol of excellence in the meat industry. With a legacy spanning decades, Teo's dedication to quality and innovation has shaped <strong>PAMPA54</strong> into a trusted name among meat business. The journey began with a simple yet profound vision – to deliver the finest meat products that reflect the rich culinary heritage of Argentina</p>
+								<!-- <p class="why-choose-three__text" style="color:#9a8349;"><strong>Teo Papazian</strong> is not just a name; he is a symbol of excellence in the meat industry. With a legacy spanning decades, Teo's dedication to quality and innovation has shaped <strong>PAMPA54</strong> into a trusted name among meat business. The journey began with a simple yet profound vision – to deliver the finest meat products that reflect the rich culinary heritage of Argentina</p> -->
                             </div>
                             
                             <div class="row gutter-y-30">
