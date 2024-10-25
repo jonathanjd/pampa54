@@ -67,18 +67,16 @@
 											<li style="color:#ffffff;">Español</li>
                                         </ul>
                                         <div class="topbar__social">
-                                            <a href="<?php echo _FACEBOOK_; ?>">
-											<i class="fab fa-facebook-f" aria-hidden="true"></i>
-											<span class="sr-only">Facebook</span>
-											</a>
+                                
 											<a href="<?php echo _INSTAGRAM_; ?>">
 											<i class="fab fa-instagram" aria-hidden="true"></i>
 											<span class="sr-only">Instagram</span>
 											</a>
-											<a href="<?php echo _YOUTUBE_; ?>">
-											<i class="fab fa-youtube" aria-hidden="true"></i>
-											<span class="sr-only">Youtube</span>
-											</a>
+                                            <a href="<?php echo _LINKEDIN_; ?>">
+                                <i class="fab fa-linkedin" aria-hidden="true" target="_blank"></i>
+                                <span class="sr-only">LinkedIn</span>
+                            </a>
+											
                                         </div>
                                     </div>
                                 </div>
