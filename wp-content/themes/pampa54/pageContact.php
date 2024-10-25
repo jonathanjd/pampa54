@@ -11,6 +11,22 @@
             </div>
         </section>
 
+<style>      
+    .radio-container {
+        display: inline-block;
+        padding: 3px;
+        background-color: #f5efe6; 
+        border-radius: 5px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+ 
+    .radio-container label {
+       margin-left: 15px;
+       color: #818080; 
+    }
+</style>
+
         <section class="contact-page section-space-top">
             <div class="container">
                 <div class="contact-page__wrapper">
@@ -36,8 +52,14 @@
                                 <div class="form-one__control wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="50ms">
                                   <input type="text" name="company" placeholder="Company Name">
                                 </div>
-								<div class="form-one__control wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="50ms">
-                                  <input type="text" name="type" placeholder="Retailer / Restaurant / Food Service">
+                                <div class="form-one__control wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="50ms">
+                                    <div class="radio-container" >
+                                        <div class="radio-group">
+                                            <label><input type="radio" name="contact_type" value="Retailer"> Retailer</label>
+                                            <label><input type="radio" name="contact_type" value="Restaurant"> Restaurant</label>
+                                            <label><input type="radio" name="contact_type" value="Food Service"> Food Service</label>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="form-one__control form-one__control--full wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
                                   <textarea name="message" placeholder="Reason for contact"></textarea>
