@@ -101,23 +101,28 @@
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="<?php echo _PAMPA54URL_; ?>">Pampa54</a>
+                                        <a href="<?php echo _PAMPA54URL_; ?>">Our Brand / Pampa54</a>
                                         <ul>
-                                            <li><a href="<?php echo _MANIFESTOURL_; ?>">Manifesto</a></li>
-                                            <li><a href="<?php echo _BRANDPURPOSEURL_; ?>">Brand Purpose</a></li>
+                                            <li><a href="<?php echo _HISTORYURL_; ?>">History</a></li>
+                                            <!-- <li><a href="<?php echo _MANIFESTOURL_; ?>">Manifesto</a></li>
+                                            <li><a href="<?php echo _BRANDPURPOSEURL_; ?>">Brand Purpose</a></li> -->
                                             <li><a href="<?php echo _BENEFITSURL_; ?>">Benefits</a></li>
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="<?php echo _PRODUCTSURL_; ?>">Products</a>
+                                        <a href="<?php echo _PRODUCTSURL_; ?>">Our Products</a>
                                         <ul>
                                             <li><a href="<?php echo _CHORIZOURL_; ?>">Chorizo</a></li>
                                             <li><a href="<?php echo _MEATCUTSURL_; ?>">Meat Cuts</a></li>
 											<li><a href="<?php echo _CATALOGSURL_; ?>">Catalogs</a></li>
                                         </ul>
                                     </li> 
-                                    <li>
+                                    <li class="dropdown">
                                         <a href="<?php echo _CONTACTURL_; ?>">Contact Us</a>
+                                        <ul>
+                                            <li><a href="<?php echo _INFORMATIONURL_; ?>">Information</a></li>
+                                            <li><a href="<?php echo _CONTACTURL_; ?>">Form</a></li>
+                                        </ul>
                                     </li>
                                 </ul>
                                 </nav>

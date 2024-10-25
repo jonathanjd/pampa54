@@ -41,6 +41,8 @@ define( '_BENEFITSURL_', '/benefits' );
 define( '_ABOUTURL_', '/about' );
 define( '_DESCRIPTIONURL_', '/description' );
 define( '_FEATUREURL_', '/feature' );
+define( '_HISTORYURL_', '/history' );
+define( '_INFORMATIONURL_', '/information' );
 
 /**
  * Sets up theme defaults and registers support for various WordPress features.
