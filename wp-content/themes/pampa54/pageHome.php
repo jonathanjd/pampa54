@@ -28,7 +28,7 @@
                                 <h2 class="sec-title__title">Connecting people<br> in every bite</h2>
                             </div>
                             <p class="about-three__text"><strong>PAMPA54</strong> is a company founded by a visionary entrepreneur driven by passion, integrity, and a deep-rooted connection to the world of meat.<strong> Pampa5</strong>4 is a brand with Argentine roots that offers an authentic line of gourmet chorizos, made from a traditional recipe 
-and natural ingredients. Ideal for complementing a barbecue, it never disappoints. At <strong>PAMPA54</strong>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the 
+and natural ingredients. Ideal for complementing a asado, it never disappoints. At <strong>PAMPA54</strong>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the 
 shared experience of savoring our authentic Argentinean chorizos.</p>
                             <div class="about-three__info">
                                 <div class="about-three__info__inner">
