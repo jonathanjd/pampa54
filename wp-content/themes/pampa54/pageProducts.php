@@ -11,6 +11,82 @@
                 </ul>
             </div>
         </section>
+        <section>
+        <div class="container mt-5">
+        <div class="sec-title__tagline">CULINARY INSPIRATION</div>
+        <h2 class="sec-title__title">Product Uses</h2>
+
+        <div class="row">
+        <div class="col-md-6">
+        <div class="mb-4">
+                <h5>Sandwiches ("Choripan")</h5>
+                <p>Use sliced cured sausages in sandwiches or wraps. They can be a delicious alternative to regular deli meats.</p>
+            </div>
+            <div class="mb-4" >
+            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/choripan.png" alt="">
+            </div>         
+            <div class="mb-4">
+                <h5>Stuffed Mushrooms or Peppers</h5>
+                <p>Mix crumbled cured sausages with cheese or breadcrumbs to create a tasty stuffing for mushrooms or peppers.</p>
+            </div>
+            <div class="mb-4">
+                <h5>Salads</h5>
+                <p>Slice cured sausages and add them to salads for a protein-packed, flavorful addition. They work well in both green salads and pasta salads.</p>
+            </div>
+            <div class="mb-4" >
+            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/salads.png" alt="">
+            </div>
+            <div class="mb-4">
+                <h5>Sauces and Soups</h5>
+                <p>Incorporate the flavor of cured sausages into sauces for pasta or rice dishes, or add them to hearty soups and stews.</p>
+            </div>
+            <div class="mb-4">
+                <h5>Charcuterie Boards</h5>
+                <p>Serve sliced cured pork sausages on a charcuterie board alongside cheeses, crackers, fruits, and other accompaniments.</p>
+            </div>
+            <div class="mb-4">
+                <h5>Antipasto Platters</h5>
+                <p>Include sliced cured sausages in antipasto platters along with olives, pickles, cheeses, and marinated vegetables.</p>
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            
+            <div class="mb-4">
+                <h5>Grilled Skewers</h5>
+                <p>Thread cured sausages onto skewers with vegetables for flavorful grilled skewers. This works well for both indoor and outdoor grilling.</p>
+            </div>
+            <div class="mb-4" >
+            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/grilled-skewers.png" alt="">
+            </div>
+           
+            
+            <div class="mb-4">
+                <h5>Pizza Toppings</h5>
+                <p>Use thinly sliced or crumbled cured sausages as a pizza topping. They add a flavorful, smoky element to the pizza.</p>
+            </div>
+          <div class="mb-4">
+                <h5>Egg Dishes</h5>
+                <p>Use cured sausages in omelets, frittatas, or scrambled eggs to infuse breakfast dishes with a savory kick.</p>
+            </div>
+            <div class="mb-4" >
+            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/egg-dishes.png" alt="">
+            </div>
+            <div class="mb-4">
+                <h5>Casseroles</h5>
+                <p>Add diced cured sausages to casseroles for a burst of flavor. They pair well with ingredients like rice, beans, and vegetables.</p>
+            </div>
+            <div class="mb-4" >
+            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/casseroles.png" alt="">
+            </div>
+            <div class="mb-4">
+                <h5>Pasta Dishes</h5>
+                <p>Incorporate cured sausages into pasta dishes for added depth of flavor. They work well in both red and white pasta sauces.</p>
+            </div>
+        </div>
+    </div>
+        
+        </section>
 
         <section class="team-two section-space-two" id="team">
             <div class="container">
