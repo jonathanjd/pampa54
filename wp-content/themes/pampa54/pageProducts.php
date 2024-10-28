@@ -77,7 +77,7 @@
                 <p>Add diced cured sausages to casseroles for a burst of flavor. They pair well with ingredients like rice, beans, and vegetables.</p>
             </div>
             <div class="mb-4" >
-            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/grilled-skewers.png" alt="">
+            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/casseroles.png" alt="">
             </div>
             <div class="mb-4">
                 <h5>Pasta Dishes</h5>
