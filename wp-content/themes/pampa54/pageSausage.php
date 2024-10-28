@@ -11,6 +11,51 @@
             </div>
         </section>
 
+        <section class="team-two section-space-two" id="team">
+            <div class="container">
+                <div class="sec-title sec-title--center">
+                    <!--<h6 class="sec-title__tagline">From the Pampas to your grill</h6>-->
+                    <h2 class="sec-title__title">Our Products</h2>
+                </div>
+                <div class="team-two__item-wrapper">
+                    <div class="team-two__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
+                        <div class="team-two__item__bg"></div>
+                        <div class="row gutter-y-20 align-items-center">
+                            <div class="col-xl-5 col-lg-6">
+                                <h3 class="team-two__name">From the Pampas to your grill.</h3>
+                            </div>
+                            <div class="col-xl-7 col-lg-3">
+                                <span class="team-two__designation" style="text-transform: none;"><b>Try the Authentic Argentinean Chorizo</b><br><br> Introducing <b>PAMPA54</b> Authentic Argentinean Chorizo line – a premium delicacy that encapsulates the essence of Argentina's asado tradition. Crafted with a unique homemade recipe, this legendary creation has been passed down through generations, a culinary treasure that originated with our grandparents and carries a rich heritage of the Argentinian pampas. Now we are honored to share this family tradition with you. Savoring every bite brings our history to your table.<br><br><b>The First Bite Matters: Make Your Asado
+                                Unforgettable with Perfect Chorizo!</b> </span>
+                            </div>
+                        </div>
+                    </div>
+					<div class="team-two__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="50ms">
+                        <div class="team-two__item__bg"></div>
+                        <div class="row gutter-y-20 align-items-center">
+                            <div class="col-xl-5 col-lg-6">
+                                <h3 class="team-two__name">Fire Up Your Senses with an Explosion of Flavors!</h3>
+                            </div>
+                            <div class="col-xl-7 col-lg-3">
+                                <span class="team-two__designation" style="text-transform: none;">Each bite reveals the result of a time-honored process, meticulously perfected over the years. The distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor that resonates with the smoky allure of an authentic Argentine asado. It's a taste that transports you to the pampas, where grilling is not just a cooking method but a cultural celebration.</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-two__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="50ms">
+                        <div class="team-two__item__bg"></div>
+                        <div class="row gutter-y-20 align-items-center">
+                            <div class="col-xl-5 col-lg-6">
+                                <h3 class="team-two__name">Taste Tradition, Quality and Uniqueness.<br>Taste Pampa54!</h3>
+                            </div>
+                            <div class="col-xl-7 col-lg-3">
+                                <span class="team-two__designation" style="text-transform: none;"><b>PAMPA54</b> is not just a brand; it's a commitment to delivering an unparalleled gastronomic experience. Elevate your culinary adventures with the premium quality, homemade heritage, natural ingredients, and unique Argentine flavor of PAMPA54 Authentic Argentinean Chorizo line.<br><br><b>Start Strong: The Chorizo Sets the Stage for an Impressive Asado!</b></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>            
+        </section>
+
         <section class="product-details section-space">
             <div class="container">
                 <div class="row gutter-y-50">
