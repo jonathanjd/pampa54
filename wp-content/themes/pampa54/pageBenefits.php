@@ -24,14 +24,26 @@
 
                                 <h6 class="sec-title__tagline">Our Brand / Pampa54</h6>
 
-                                <h2 class="sec-title__title">BENEFITS TITLE</h2>
+                                <h2 class="sec-title__title">Benefits</h2>
                             </div>
-                            <p class="about-three__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in sem a massa porta ultricies ac vitae tortor. Phasellus eu mattis urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam accumsan nibh vitae orci rutrum, imperdiet suscipit nisi semper. Nunc malesuada mauris ut eros eleifend, eget semper quam lobortis. Nulla commodo nisi ac vehicula pulvinar. Nunc at lacinia nibh, ut suscipit libero. Pellentesque risus augue, iaculis tristique nunc luctus, interdum venenatis tortor. Etiam non pulvinar orci, et condimentum nulla. Fusce malesuada facilisis lorem, sed dignissim felis. Maecenas auctor ullamcorper cursus. Quisque id turpis quis velit placerat molestie sed sed risus. Proin accumsan libero quam. Proin ultrices ex quis felis sollicitudin finibus. </p>
-                            
+                            <div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
+                       <h3>Authentic Flavor</h3>
+                    <p class="about-three__text">Enjoy the genuine taste of Argentinean chorizos, crafted with traditional recipes and high-quality ingredients. </p>
+                    </div>
+                    <div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
+                       <h3>Premium Quality</h3>
+                    <p class="about-three__text">Our sausages are made from carefully selected, natural ingredients, ensuring superior taste and texture. Our sausages provide a wholesome and nutritious option without compromising on taste. </p>
+                    </div>
+                   
                         </div>
                     </div>
-					<div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
-                        <p class="about-three__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in sem a massa porta ultricies ac vitae tortor. Phasellus eu mattis urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam accumsan nibh vitae orci rutrum, imperdiet suscipit nisi semper. Nunc malesuada mauris ut eros eleifend, eget semper quam lobortis. Nulla commodo nisi ac vehicula pulvinar. Nunc at lacinia nibh, ut suscipit libero. Pellentesque risus augue, iaculis tristique nunc luctus, interdum venenatis tortor. Etiam non pulvinar orci, et condimentum nulla. Fusce malesuada facilisis lorem, sed dignissim felis. Maecenas auctor ullamcorper cursus. Quisque id turpis quis velit placerat molestie sed sed risus. Proin accumsan libero quam. Proin ultrices ex quis felis sollicitudin finibus. </p>
+                    <div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
+                       <h3>Consistent Excellence</h3>
+                    <p class="about-three__text">With over 30 years of expertise and Argentinean roots, PAMPA54 guarantees consistent quality and flavor in every product. </p>
+                    </div>
+                    <div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
+                       <h3>Customer Satisfaction</h3>
+                    <p class="about-three__text">Dedicated to delivering an unparalleled gastronomic experience, ensuring our customers' satisfaction with every purchase. </p>
                     </div>
                 </div>
             </div>

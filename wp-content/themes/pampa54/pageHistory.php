@@ -26,12 +26,12 @@
 
                                 <h2 class="sec-title__title">History</h2>
                             </div>
-                            <p class="about-three__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in sem a massa porta ultricies ac vitae tortor. Phasellus eu mattis urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam accumsan nibh vitae orci rutrum, imperdiet suscipit nisi semper. Nunc malesuada mauris ut eros eleifend, eget semper quam lobortis. Nulla commodo nisi ac vehicula pulvinar. Nunc at lacinia nibh, ut suscipit libero. Pellentesque risus augue, iaculis tristique nunc luctus, interdum venenatis tortor. Etiam non pulvinar orci, et condimentum nulla. Fusce malesuada facilisis lorem, sed dignissim felis. Maecenas auctor ullamcorper cursus. Quisque id turpis quis velit placerat molestie sed sed risus. Proin accumsan libero quam. Proin ultrices ex quis felis sollicitudin finibus. </p>
+                            <p class="about-three__text">PAMPA54 The Brand: Bringing people together with every bite </p>
                             
                         </div>
                     </div>
 					<div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
-                        <p class="about-three__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in sem a massa porta ultricies ac vitae tortor. Phasellus eu mattis urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam accumsan nibh vitae orci rutrum, imperdiet suscipit nisi semper. Nunc malesuada mauris ut eros eleifend, eget semper quam lobortis. Nulla commodo nisi ac vehicula pulvinar. Nunc at lacinia nibh, ut suscipit libero. Pellentesque risus augue, iaculis tristique nunc luctus, interdum venenatis tortor. Etiam non pulvinar orci, et condimentum nulla. Fusce malesuada facilisis lorem, sed dignissim felis. Maecenas auctor ullamcorper cursus. Quisque id turpis quis velit placerat molestie sed sed risus. Proin accumsan libero quam. Proin ultrices ex quis felis sollicitudin finibus. </p>
+                        <p class="about-three__text"> </p>
                     </div>
                 </div>
             </div>
