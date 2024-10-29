@@ -25,7 +25,7 @@
                                 <h3 class="team-two__name">From the Pampas to your grill.</h3>
                             </div>
                             <div class="col-xl-7 col-lg-3">
-                                <span class="team-two__designation" style="text-transform: none;"><b>Try the Authentic Argentinean Chorizo</b><br><br> Introducing <b>PAMPA54</b> Authentic Argentinean Chorizo line – a premium delicacy that encapsulates the essence of Argentina's asado tradition. Crafted with a unique homemade recipe, this legendary creation has been passed down through generations, a culinary treasure that originated with our grandparents and carries a rich heritage of the Argentinian pampas. Now we are honored to share this family tradition with you. Savoring every bite brings our history to your table.<br><br><b>The First Bite Matters: Make Your Asado
+                                <span class="team-two__designation" style="text-transform: none; text-align: justify;"><b>Try the Authentic Argentinean Chorizo</b><br><br> Introducing <b>PAMPA54</b> Authentic Argentinean Chorizo line – a premium delicacy that encapsulates the essence of Argentina's asado tradition. Crafted with a unique homemade recipe, this legendary creation has been passed down through generations, a culinary treasure that originated with our grandparents and carries a rich heritage of the Argentinian pampas. Now we are honored to share this family tradition with you. Savoring every bite brings our history to your table.<br><br><b>The First Bite Matters: Make Your Asado
                                 Unforgettable with Perfect Chorizo!</b> </span>
                             </div>
                         </div>
@@ -37,7 +37,7 @@
                                 <h3 class="team-two__name">Fire Up Your Senses with an Explosion of Flavors!</h3>
                             </div>
                             <div class="col-xl-7 col-lg-3">
-                                <span class="team-two__designation" style="text-transform: none;">Each bite reveals the result of a time-honored process, meticulously perfected over the years. The distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor that resonates with the smoky allure of an authentic Argentine asado. It's a taste that transports you to the pampas, where grilling is not just a cooking method but a cultural celebration.</span>
+                                <span class="team-two__designation" style="text-transform: none; text-align: justify;">Each bite reveals the result of a time-honored process, meticulously perfected over the years. The distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor that resonates with the smoky allure of an authentic Argentine asado. It's a taste that transports you to the pampas, where grilling is not just a cooking method but a cultural celebration.</span>
                             </div>
                         </div>
                     </div>
@@ -48,7 +48,7 @@
                                 <h3 class="team-two__name">Taste Tradition, Quality and Uniqueness.<br>Taste Pampa54!</h3>
                             </div>
                             <div class="col-xl-7 col-lg-3">
-                                <span class="team-two__designation" style="text-transform: none;"><b>PAMPA54</b> is not just a brand; it's a commitment to delivering an unparalleled gastronomic experience. Elevate your culinary adventures with the premium quality, homemade heritage, natural ingredients, and unique Argentine flavor of PAMPA54 Authentic Argentinean Chorizo line.<br><br><b>Start Strong: The Chorizo Sets the Stage for an Impressive Asado!</b></span>
+                                <span class="team-two__designation" style="text-transform: none; text-align: justify;"><b>PAMPA54</b> is not just a brand; it's a commitment to delivering an unparalleled gastronomic experience. Elevate your culinary adventures with the premium quality, homemade heritage, natural ingredients, and unique Argentine flavor of PAMPA54 Authentic Argentinean Chorizo line.<br><br><b>Start Strong: The Chorizo Sets the Stage for an Impressive Asado!</b></span>
                             </div>
                         </div>
                     </div>
@@ -84,7 +84,7 @@
                                 </p>
                             </div>
                             <div class="product-details__excerpt" style="border-bottom: 0px;">
-                                <p class="product-details__excerpt__text">
+                                <p class="product-details__excerpt__text" style="text-align: justify;">
                                     Package Type: Vacuum Packs <br>
 									Case Dimensions: 16” x 11.75” x 3.5”<br>
 									Sensory Attributes: Meat is pink in color, well defined grinding. Sausage has a natural curve.<br>
@@ -126,7 +126,7 @@
                                 </p>
                             </div>
                           <div class="product-details__excerpt" style="border-bottom: 0px;">
-                                <p class="product-details__excerpt__text">
+                                <p class="product-details__excerpt__text" style="text-align: justify;">
                                     Package Type: Vacuum Packs <br>
 									Case Dimensions: 16” x 11.75” x 3.5”<br>
 									Sensory Attributes: Meat is pink in color, well defineda<br>
@@ -168,7 +168,7 @@
                                 </p>
                             </div>
                             <div class="product-details__excerpt" style="border-bottom: 0px;">
-                                <p class="product-details__excerpt__text">
+                                <p class="product-details__excerpt__text" style="text-align: justify;">
                                     Package Type: Vacuum Packs <br>
 									Case Dimensions: 16” x 11.75” x 3.5”<br>
 									Sensory Attributes: Brownish color.<br>
@@ -210,7 +210,7 @@
                                 </p>
                             </div>
                             <div class="product-details__excerpt" style="border-bottom: 0px;">
-                                <p class="product-details__excerpt__text">
+                                <p class="product-details__excerpt__text" style="text-align: justify;">
                                     Package Type: Vacuum Packs <br>
 									Case Dimensions: 16” x 11.75” x 3.5”<br>
 									Sensory Attributes: Brownish color.<br>
@@ -252,7 +252,7 @@
                                 </p>
                             </div>
                             <div class="product-details__excerpt" style="border-bottom: 0px;">
-                                <p class="product-details__excerpt__text">
+                                <p class="product-details__excerpt__text" style="text-align: justify;">
                                     Package Type: Vacuum Packs <br>
 									Case Dimensions: 16” x 11.75” x 3.5”<br>
 									Sensory Attributes: Meat is pink in color, well defined grinding. Sausage has a natural curve.<br>
@@ -294,7 +294,7 @@
                                 </p>
                             </div>
                             <div class="product-details__excerpt" style="border-bottom: 0px;">
-                                <p class="product-details__excerpt__text">
+                                <p class="product-details__excerpt__text" style="text-align: justify;">
                                     Package Type: Vacuum Packs <br>
 									Case Dimensions: 15.5” x 11.75” x 3.5”<br>
 									Sensory Attributes: Meat is pink in color, well defineda.<br>
@@ -336,7 +336,7 @@
                                 </p>
                             </div>
                             <div class="product-details__excerpt" style="border-bottom: 0px;">
-                                <p class="product-details__excerpt__text">
+                                <p class="product-details__excerpt__text" style="text-align: justify;">
                                     Package Type: Vacuum Packs <br>
 									Case Dimensions: 15.5” x 11.75” x 3.5”<br>
 									Sensory Attributes: Brownish color.<br>
@@ -378,7 +378,7 @@
                                 </p>
                             </div>
                             <div class="product-details__excerpt" style="border-bottom: 0px;">
-                                <p class="product-details__excerpt__text">
+                                <p class="product-details__excerpt__text" style="text-align: justify;">
                                     Package Type: Vacuum Packs <br>
 									Case Dimensions: 16” x 11.75” x 3.5”<br>
 									Sensory Attributes: Meat is pink in color, well defined grinding. Sausage has a natural curve.<br>
@@ -420,7 +420,7 @@
                                 </p>
                             </div>
                             <div class="product-details__excerpt" style="border-bottom: 0px;">
-                                <p class="product-details__excerpt__text">
+                                <p class="product-details__excerpt__text" style="text-align: justify;">
                                     Package Type: Vacuum Packs <br>
 									Case Dimensions: 16” x 11.75” x 3.5”<br>
 									Sensory Attributes: Meat is pink in color, well defineda.<br>
@@ -462,7 +462,7 @@
                                 </p>
                             </div>
                             <div class="product-details__excerpt" style="border-bottom: 0px;">
-                                <p class="product-details__excerpt__text">
+                                <p class="product-details__excerpt__text" style="text-align: justify;">
                                     Package Type: Vacuum Packs <br>
 									Case Dimensions: 16” x 11.75” x 3.5”<br>
 									Sensory Attributes: Brownish color.<br>
