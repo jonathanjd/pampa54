@@ -25,12 +25,29 @@
 
                                 <h2 class="sec-title__title">Feature</h2>
                             </div>
-                            <p class="about-three__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in sem a massa porta ultricies ac vitae tortor. Phasellus eu mattis urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam accumsan nibh vitae orci rutrum, imperdiet suscipit nisi semper. Nunc malesuada mauris ut eros eleifend, eget semper quam lobortis. Nulla commodo nisi ac vehicula pulvinar. Nunc at lacinia nibh, ut suscipit libero. Pellentesque risus augue, iaculis tristique nunc luctus, interdum venenatis tortor. Etiam non pulvinar orci, et condimentum nulla. Fusce malesuada facilisis lorem, sed dignissim felis. Maecenas auctor ullamcorper cursus. Quisque id turpis quis velit placerat molestie sed sed risus. Proin accumsan libero quam. Proin ultrices ex quis felis sollicitudin finibus. </p>
+                            <p class="about-three__text" style="text-align: justify;"><b>PAMPA54</b> is a premium Argentinean meat distribution company dedicated to bringing the finest cuts of Argentine beef and a premium line of authentic Argentinean chorizos to the United States.
+                                Our commitment to quality, exceptional service, and reliable distribution sets us apart in the industry.<br><br>
+                                <b>Premium Quality:</b><br>
+                                At <b>PAMPA54</b>, we pride ourselves on offering only the highest quality meat products. Our selection features the renowned Argentine Angus beef, celebrated globally for its superior marbling, tenderness, and rich flavor. We ensure that each cut meets our rigorous standards:<br>
+                                1) Strict Quality Control<br>
+                                2) Grass-Fed Excellence<br>
+                                3) Diverse Product Range.<br>
+                            </p>
                             
                         </div>
                     </div>
 					<div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
-                        <p class="about-three__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in sem a massa porta ultricies ac vitae tortor. Phasellus eu mattis urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam accumsan nibh vitae orci rutrum, imperdiet suscipit nisi semper. Nunc malesuada mauris ut eros eleifend, eget semper quam lobortis. Nulla commodo nisi ac vehicula pulvinar. Nunc at lacinia nibh, ut suscipit libero. Pellentesque risus augue, iaculis tristique nunc luctus, interdum venenatis tortor. Etiam non pulvinar orci, et condimentum nulla. Fusce malesuada facilisis lorem, sed dignissim felis. Maecenas auctor ullamcorper cursus. Quisque id turpis quis velit placerat molestie sed sed risus. Proin accumsan libero quam. Proin ultrices ex quis felis sollicitudin finibus. </p>
+                        <p class="about-three__text" style="text-align: justify;"><b>Exceptional Service</b><br>
+                            Customer satisfaction is at the heart of <b>PAMPA54's</b> operations. We go above and beyond to ensure our clients receive the best service possible:<br>
+                            1) Personalized Support.<br>
+                            2) Consistent Reliability.<br><br>
+                            <b>Commitment to Excellence</b><br>
+                            <b>PAMPA54</b> is committed to maintaining the highest standards in all aspects of our business. Our focus on quality, service, and reliable distribution makes us the preferred choice for Argentinean beef in the United States.<br><br>
+                            <b>Comprehensive Distribution Services</b><br>
+                            <b>PAMPA54's</b> distribution network is designed to efficiently serve the US market and Caribbean Islands, providing seamless and reliable delivery of our premium meats:<br>
+                            1) Strategic Warehousing.<br>
+                            2) Efficient Logistics
+                        </p>
                     </div>
                 </div>
             </div>
