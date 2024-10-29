@@ -33,7 +33,7 @@
                     <div class="contact-page__content">
                         <div class="contact-page__sec-title">
                             <h2 class="contact-page__title">Get In Touch</h2>
-                            <p class="contact-page__text">Consectetur adipiscing elit phasellus et metus augue. Mauris ut libero eget erat scelerisque vehicula. Phasellus nec blandit metus.</p>
+                            <p class="contact-page__text">If you are interested in our products and want to know more about Pampa 54, contact us and we will give you more information.</p>
                         </div>
                         <form id="emailForm" action="" method="post" class="contact-page__form form-one">
                             <div class="form-one__group">
@@ -132,7 +132,7 @@
                             <div class="contact-info__contact__content">
                                 <div class="contact-info__top">
                                     <h4 class="contact-info__title">Connect with Us</h4>
-                                    <p class="contact-info__text" style="color: #fff;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                    <p class="contact-info__text" style="color: #fff;">Find us on our social networks, and learn more about the authentic Pampa54 flavor!</p>
                                 </div>
                                 <div class="contact-info__contact-list">
                                     <div class="contact-info__contact-list__item">

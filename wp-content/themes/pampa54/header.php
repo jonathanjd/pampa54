@@ -118,7 +118,6 @@
                                     <li class="dropdown">
                                         <a href="<?php echo _CONTACTURL_; ?>">Contact Us</a>
                                         <ul>
-                                            <li><a href="<?php echo _INFORMATIONURL_; ?>">Information</a></li>
                                             <li><a href="<?php echo _CONTACTURL_; ?>">Form</a></li>
                                         </ul>
                                     </li>
