@@ -27,7 +27,36 @@
                                 <h2 class="sec-title__title">History</h2>
                             </div>
                             <p class="about-three__text">PAMPA54 The Brand: Bringing people together with every bite </p>
-                            
+                            <div class="col-xl-12 col-md-10 ms-auto">
+            <div class="row gutter-y-30">
+                <div class="col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
+                    <div class="why-choose-three__card">
+                        <div class="why-choose-three__card__icon">
+                            <span class="icon-achievement"></span>
+                        </div>
+                        <div class="why-choose-three__card__content">
+                            <h4 class="why-choose-three__card__title">Manifesto</h4>
+                        </div>
+                    </div>
+                    <p class="why-choose-three__text" style="padding-top: 20px;">
+                    In the heart of Argentina, where the Pampas stretch endlessly, and the art of Asado is a revered tradition, PAMPA54 was bom. A premium brand that encapsulates the spirit of the land, where Asado isn't just a meal; it's a sacred ceremony that unites friends and family. Step into the PAMPA54 experience, where each product is a chapter in the story of Argentine Asado.
+                    </p>
+                </div>
+                <div class="col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
+                    <div class="why-choose-three__card">
+                        <div class="why-choose-three__card__icon">
+                            <span class="icon-healthcare-1"></span>
+                        </div>
+                        <div class="why-choose-three__card__content">
+                            <h4 class="why-choose-three__card__title">Our Purpose</h4>
+                        </div>
+                    </div>
+                    <p class="why-choose-three__text" style="padding-top: 20px;">
+                        At <strong>PAMPA54</strong>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the shared experience of savoring our authentic Argentinean chorizos.
+                    </p>
+                </div>
+            </div>
+        </div>
                         </div>
                     </div>
 					<div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
