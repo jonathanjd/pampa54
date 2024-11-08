@@ -3,7 +3,7 @@
         <section class="page-header">
             <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
             <div class="container">
-                <h2 class="page-header__title">Catalogs</h2>
+                <h2 class="page-header__title">Our Catalogs</h2>
                 <ul class="pampa-breadcrumb list-unstyled">
                     <li><a href="<?php echo _HOMEURL_; ?>">Home</a></li>
                     <li><span>Products</span></li>
@@ -29,7 +29,11 @@
 
                                 <h2 class="sec-title__title">OUR CATALOGS</h2>
                             </div>
-                            <p class="about-one__text">With over 30 years of expertise and Argentinean roots, <strong>PAMPA54</strong> guarantees consistent quality and flavor in every product. <strong>PAMPA54</strong> is a company founded by a visionary entrepreneur driven by passion, integrity, and a deep-rooted connection to the world of meat. A Legacy of Quality  and Tradition.</p>
+                            <p class="about-one__text" style="text-align: justify;">
+                                Explore Our Product Catalogs!<br><br>
+                                We invite you to download and review our comprehensive product catalogs showcasing our Chorizo Line and Beef offerings. Discover the rich variety and quality that <strong>PAMPA54</strong> has to offer. 
+                                After reviewing, feel free to contact us with any questions or to place an order. We are here to assist you and ensure you find the perfect products for your needs!
+                            </p>
                             <div class="about-one__inner">
                                 <h5 class="about-one__info-title">DOWNLOAD CATALOG MEAT CUTS PRODUCTS</h5>                                
                             </div>
