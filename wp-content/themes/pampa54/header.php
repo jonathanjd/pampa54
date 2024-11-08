@@ -110,16 +110,13 @@
 									<li class="dropdown">
                                         <a href="<?php echo _PRODUCTSURL_; ?>">Our Products</a>
                                         <ul>
-                                            <li><a href="<?php echo _SAUSAGEURL_; ?>">Chorizo</a></li>
-                                            <li><a href="<?php echo _MEATCUTSURL_; ?>">Meat Cuts</a></li>
+                                            <li><a href="<?php echo _SAUSAGEURL_; ?>">Our Chorizos</a></li>
+                                            <li><a href="<?php echo _MEATCUTSURL_; ?>">Our Beef</a></li>
 											<li><a href="<?php echo _CATALOGSURL_; ?>">Catalogs</a></li>
                                         </ul>
                                     </li> 
                                     <li class="dropdown">
                                         <a href="<?php echo _CONTACTURL_; ?>">Contact Us</a>
-                                        <ul>
-                                            <li><a href="<?php echo _CONTACTURL_; ?>">Form</a></li>
-                                        </ul>
                                     </li>
                                 </ul>
                                 </nav>

@@ -3,7 +3,7 @@
         <section class="page-header">
             <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
             <div class="container">
-                <h2 class="page-header__title">Chorizo</h2>
+                <h2 class="page-header__title">Our Chorizos</h2>
                 <ul class="pampa-breadcrumb list-unstyled">
                     <li><a href="<?php echo _HOMEURL_; ?>">Home</a></li>
                     <li><span>Products</span></li>
@@ -150,27 +150,14 @@
                             </div>
                             
                             <div class="product-details__excerpt">
-                                <p class="product-details__excerpt__text">
-                                    Item Name: Chorizo Argentino<br>
-									Item Number: PC1907<br>
-									Pack Weight: 16 oz<br>
-									Units/Pack: 5<br>
-									Item Description: Cured Pork Sausage<br>
-									UPC Code: 860005991907<br>
-									Case Weight: 10 lbs.<br>
-									Packs/Case: 10<br>
-                                </p>
-                            </div>
-                            <div class="product-details__excerpt" style="border-bottom: 0px;">
                                 <p class="product-details__excerpt__text" style="text-align: justify;">
-                                    Package Type: Vacuum Packs <br>
-									Case Dimensions: 16” x 11.75” x 3.5”<br>
-									Sensory Attributes: Meat is pink in color, well defined grinding. Sausage has a natural curve.<br>
-									Cooking Instructions: Thaw in refrigerator if frozen. Grill, BBQ, bake or fry until minimum internal temperature reaches 160º F (71º Celsius)<br>
-									Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.<br>
-									Allergens: None<br>
-									Shelf Life: 90 days<br>
-									Ti Hi: 10 x 10
+                                    Mild flavor and delicious Argentine style cured pork sausage, excellent for grilling. Crafted with a unique, traditional and homemade recipe that passed through generations and high-quality ingredients. 
+                                    Our chorizos are made from carefully selected, natural ingredients, ensuring superior taste and texture. They provide a wholesome and nutritious option without compromising on taste.
+                                    Each bite reveals the result of a time-honored process, meticulously perfected over the years. The
+                                    distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor
+                                    that resonates with the smoky allure of an authentic Argentine asado. It's a taste that transports you to the pampas, where grilling is not just a cooking method but a cultural celebration.<br>
+                                    Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.
+                                    Units/Pack: 5
                                 </p>
                             </div>
                         </div>
@@ -192,28 +179,15 @@
                             </div>
                             
                             <div class="product-details__excerpt">
-                                <p class="product-details__excerpt__text">
-                                    Item Name: Chorizo Argentino Bombon<br>
-									Item Number: PC1938<br>
-									Pack Weight: 16 oz<br>
-									Units/Pack: 8<br>
-									Item Description: Cured Pork Bombon Sausage<br>
-									UPC Code: 860005991938<br>
-									Case Weight: 10 lbs.<br>
-									Packs/Case: 10<br>
-                                </p>
-                            </div>
-                          <div class="product-details__excerpt" style="border-bottom: 0px;">
                                 <p class="product-details__excerpt__text" style="text-align: justify;">
-                                    Package Type: Vacuum Packs <br>
-									Case Dimensions: 16” x 11.75” x 3.5”<br>
-									Sensory Attributes: Meat is pink in color, well defineda<br>
-									Cooking Instructions: Thaw in refrigerator if frozen. Grill, BBQ, bake or fry until minimum internal temperature reaches 160º F (71º Celsius)<br>
-									Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.<br>
-									Allergens: None<br>
-									Shelf Life: 90 days<br>
-									Ti Hi: 10 x 10
-                            </p>
+                                    Mild flavor and delicious Argentine style cured pork sausage, excellent for grilling. Crafted with a unique, traditional and homemade recipe that passed through generations and high-quality ingredients. 
+                                    Our chorizos bombon are made from carefully selected, natural ingredients, ensuring superior taste and texture. They provide a wholesome and nutritious option without compromising on taste.
+                                    Each bite reveals the result of a time-honored process, meticulously perfected over the years. The
+                                    distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor
+                                    that resonates with the smoky allure of an authentic Argentine asado. It's a taste that transports you to the pampas, where grilling is not just a cooking method but a cultural celebration.<br>
+                                    Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.
+                                    Units/Pack: 8
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -234,27 +208,11 @@
                             </div>
                             
                             <div class="product-details__excerpt">
-                                <p class="product-details__excerpt__text">
-                                    Item Name: Morcilla Argentina<br>
-									Item Number: PC1914<br>
-									Pack Weight: 16 oz<br>
-									Units/Pack: 5<br>
-									Item Description: Blood Sausage<br>
-									UPC Code: 860005991914<br>
-									Case Weight: 10 lbs.<br>
-									Packs/Case: 10<br>
-                                </p>
-                            </div>
-                            <div class="product-details__excerpt" style="border-bottom: 0px;">
                                 <p class="product-details__excerpt__text" style="text-align: justify;">
-                                    Package Type: Vacuum Packs <br>
-									Case Dimensions: 16” x 11.75” x 3.5”<br>
-									Sensory Attributes: Brownish color.<br>
-									Cooking Instructions: Thaw in refrigerator if frozen. Grill, BBQ, bake or fry until minimum internal temperature reaches 160º F (71º Celsius)<br>
-									Ingredients: Cured pork skin (cured with salt, sugar, dextrose, sodium nitrite), beef blood, pork fat, wheat flour, spices, salt, sodium lactate, sodium (d)acetate.<br>
-									Allergens: None<br>
-									Shelf Life: 90 days<br>
-									Ti Hi: 10 x 10
+                                    It's made with a variety of ingredients, including pork blood, fat, and spices, and is typically stuffed into a casing made from pig's intestine. Morcilla is known for its dark color and rich taste. The ground pork is mixed with pig's blood, along with seasonings and spices. 
+                                    It is then piped into a casing, shaped into cylinders, flash-boiled to coagulate the blood, and hung up to cure.<br>
+                                    Ingredients: Cured pork skin (cured with salt, sugar, dextrose, sodium nitrite), beef blood, pork fat, wheat flour, spices, salt, sodium lactate, sodium (d)acetate.
+                                    Units/Pack: 5
                                 </p>
                             </div>
                         </div>
@@ -276,27 +234,14 @@
                             </div>
                             
                             <div class="product-details__excerpt">
-                                <p class="product-details__excerpt__text">
-                                    Item Name: Salchicha Parrillera<br>
-									Item Number: PC1907<br>
-									Pack Weight: 16 oz<br>
-									Units/Pack: 2<br>
-									Item Description: Cured Pork Sausage<br>
-									UPC Code: 860005991921<br>
-									Case Weight: 10 lbs.<br>
-									Packs/Case: 10<br>
-                                </p>
-                            </div>
-                            <div class="product-details__excerpt" style="border-bottom: 0px;">
                                 <p class="product-details__excerpt__text" style="text-align: justify;">
-                                    Package Type: Vacuum Packs <br>
-									Case Dimensions: 16” x 11.75” x 3.5”<br>
-									Sensory Attributes: Brownish color.<br>
-									Cooking Instructions: Thaw in refrigerator if frozen. Grill, BBQ, bake or fry until minimum internal temperature reaches 160º F (71º Celsius)<br>
-									Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.<br>
-									Allergens: None<br>
-									Shelf Life: 90 days<br>
-									Ti Hi: 10 x 10
+                                    Mild flavor and delicious Argentine style cured pork sausage in spiral, excellent for grilling. Crafted with a unique, traditional and homemade recipe that passed through generations and high-quality ingredients. 
+                                    Our salchichas parrilleras are made from carefully selected, natural ingredients, ensuring superior taste and texture. They provide a wholesome and nutritious option without compromising on taste.
+                                    Each bite reveals the result of a time-honored process, meticulously perfected over the years. The
+                                    distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor
+                                    that resonates with the smoky allure of an authentic Argentine asado. It's a taste that transports you to the pampas, where grilling is not just a cooking method but a cultural celebration.<br>
+                                    Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.
+                                    Units/Pack: 2
                                 </p>
                             </div>
                         </div>
@@ -318,27 +263,14 @@
                             </div>
                             
                             <div class="product-details__excerpt">
-                                <p class="product-details__excerpt__text">
-                                    Item Name: Chorizo Argentino<br>
-									Item Number: PC1969<br>
-									Pack Weight: 32 oz<br>
-									Units/Pack: 10<br>
-									Item Description: Cured Pork Sausage<br>
-									UPC Code: 860005991969<br>
-									Case Weight: 10 lbs.<br>
-									Packs/Case: 5<br>
-                                </p>
-                            </div>
-                            <div class="product-details__excerpt" style="border-bottom: 0px;">
                                 <p class="product-details__excerpt__text" style="text-align: justify;">
-                                    Package Type: Vacuum Packs <br>
-									Case Dimensions: 16” x 11.75” x 3.5”<br>
-									Sensory Attributes: Meat is pink in color, well defined grinding. Sausage has a natural curve.<br>
-									Cooking Instructions: Thaw in refrigerator if frozen. Grill, BBQ, bake or fry until minimum internal temperature reaches 160º F (71º Celsius)<br>
-									Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.<br>
-									Allergens: None<br>
-									Shelf Life: 90 days<br>
-									Ti Hi: 10 x 10
+                                    Mild flavor and delicious Argentine style cured pork sausage, excellent for grilling. Crafted with a unique, traditional and homemade recipe that passed through generations and high-quality ingredients. 
+                                    Our chorizos are made from carefully selected, natural ingredients, ensuring superior taste and texture. They provide a wholesome and nutritious option without compromising on taste.
+                                    Each bite reveals the result of a time-honored process, meticulously perfected over the years. The
+                                    distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor
+                                    that resonates with the smoky allure of an authentic Argentine asado. It's a taste that transports you to the pampas, where grilling is not just a cooking method but a cultural celebration.<br>
+                                    Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.
+                                    Units/Pack: 10
                                 </p>
                             </div>
                         </div>
@@ -360,27 +292,14 @@
                             </div>
                             
                             <div class="product-details__excerpt">
-                                <p class="product-details__excerpt__text">
-                                    Item Name: Chorizo Argentino Bombon<br>
-									Item Number: PC1945<br>
-									Pack Weight: 32 oz<br>
-									Units/Pack: 16<br>
-									Item Description: Cured Pork Bombon Sausage<br>
-									UPC Code: 860005991945<br>
-									Case Weight: 10 lbs.<br>
-									Packs/Case: 10<br>
-                                </p>
-                            </div>
-                            <div class="product-details__excerpt" style="border-bottom: 0px;">
                                 <p class="product-details__excerpt__text" style="text-align: justify;">
-                                    Package Type: Vacuum Packs <br>
-									Case Dimensions: 15.5” x 11.75” x 3.5”<br>
-									Sensory Attributes: Meat is pink in color, well defineda.<br>
-									Cooking Instructions: Thaw in refrigerator if frozen. Grill, BBQ, bake or fry until minimum internal temperature reaches 160º F (71º Celsius)<br>
-									Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.<br>
-									Allergens: None<br>
-									Shelf Life: 90 days<br>
-									Ti Hi: 10 x 10
+                                    Mild flavor and delicious Argentine style cured pork sausage, excellent for grilling. Crafted with a unique, traditional and homemade recipe that passed through generations and high-quality ingredients. 
+                                    Our chorizos bombon are made from carefully selected, natural ingredients, ensuring superior taste and texture. They provide a wholesome and nutritious option without compromising on taste.
+                                    Each bite reveals the result of a time-honored process, meticulously perfected over the years. The
+                                    distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor
+                                    that resonates with the smoky allure of an authentic Argentine asado. It's a taste that transports you to the pampas, where grilling is not just a cooking method but a cultural celebration.<br>
+                                    Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.
+                                    Units/Pack: 16
                                 </p>
                             </div>
                         </div>
@@ -402,27 +321,11 @@
                             </div>
                             
                             <div class="product-details__excerpt">
-                                <p class="product-details__excerpt__text">
-                                    Item Name: Morcilla Bombon<br>
-									Item Number: PC1976<br>
-									Pack Weight: 32 oz<br>
-									Units/Pack: 16<br>
-									Item Description: Bombon Blood Sausage<br>
-									UPC Code: 860005991976<br>
-									Case Weight: 10 lbs.<br>
-									Packs/Case: 5<br>
-                                </p>
-                            </div>
-                            <div class="product-details__excerpt" style="border-bottom: 0px;">
                                 <p class="product-details__excerpt__text" style="text-align: justify;">
-                                    Package Type: Vacuum Packs <br>
-									Case Dimensions: 15.5” x 11.75” x 3.5”<br>
-									Sensory Attributes: Brownish color.<br>
-									Cooking Instructions: Thaw in refrigerator if frozen. Grill, BBQ, bake or fry until minimum internal temperature reaches 160º F (71º Celsius)<br>
-									Ingredients: Cured pork skin (cured with salt, sugar, dextrose, sodium nitrite), beef blood, pork fat, wheat flour, spices, salt, sodium lactate, sodium (d)acetate.<br>
-									Allergens: None<br>
-									Shelf Life: 90 days<br>
-									Ti Hi: 10 x 10
+                                    It's made with a variety of ingredients, including pork blood, fat, and spices, and is typically stuffed into a casing made from pig's intestine. Morcilla bombon is known for its dark color and rich taste. 
+                                    The ground pork is mixed with pig's blood, along with seasonings and spices. It is then piped into a casing, shaped into cylinders, flash-boiled to coagulate the blood, and hung up to cure.<br>
+                                    Ingredients: Cured pork skin (cured with salt, sugar, dextrose, sodium nitrite), beef blood, pork fat, wheat flour, spices, salt, sodium lactate, sodium (d)acetate.
+                                    Units/Pack: 16
                                 </p>
                             </div>
                         </div>
@@ -444,27 +347,12 @@
                             </div>
                             
                             <div class="product-details__excerpt">
-                                <p class="product-details__excerpt__text">
-                                    Item Name: Chorizo Argentino<br>
-									Item Number: PC1969<br>
-									Pack Weight: 5 lbs<br>
-									Units/Pack: 25<br>
-									Item Description: Cured Pork Sausage<br>
-									UPC Code: 860005991969<br>
-									Case Weight: 10 lbs.<br>
-									Packs/Case: 2<br>
-                                </p>
-                            </div>
-                            <div class="product-details__excerpt" style="border-bottom: 0px;">
                                 <p class="product-details__excerpt__text" style="text-align: justify;">
-                                    Package Type: Vacuum Packs <br>
-									Case Dimensions: 16” x 11.75” x 3.5”<br>
-									Sensory Attributes: Meat is pink in color, well defined grinding. Sausage has a natural curve.<br>
-									Cooking Instructions: Thaw in refrigerator if frozen. Grill, BBQ, bake or fry until minimum internal temperaturereaches 160º F (71º Celsius)<br>
-									Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.<br>
-									Allergens: None<br>
-									Shelf Life: 90 days<br>
-									Ti Hi: 10 x 10
+                                    Mild flavor and delicious Argentine style cured pork sausage, excellent for grilling. Crafted with a unique, traditional and homemade recipe that passed through generations and high-quality ingredients. 
+                                    Our chorizos are made from carefully selected, natural ingredients, ensuring superior taste and texture. They provide a wholesome and nutritious option without compromising on taste.
+                                    Each bite reveals the result of a time-honored process, meticulously perfected over the years. The distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor that resonates with the smoky allure of an authentic Argentine asado. It's a taste that transports you to the pampas, where grilling is not just a cooking method but a cultural celebration.<br>
+                                    Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.
+                                    Units/Pack: 25
                                 </p>
                             </div>
                         </div>
@@ -486,27 +374,14 @@
                             </div>
                             
                             <div class="product-details__excerpt">
-                                <p class="product-details__excerpt__text">
-                                    Item Name: Chorizo Argentino Bombon<br>
-									Item Number: PC1938FS<br>
-									Pack Weight: 5 lbs<br>
-									Units/Pack: 40<br>
-									Item Description: Cured Pork Bombon Sausage<br>
-									UPC Code: 860005991938<br>
-									Case Weight: 10 lbs.<br>
-									Packs/Case: 2<br>
-                                </p>
-                            </div>
-                            <div class="product-details__excerpt" style="border-bottom: 0px;">
                                 <p class="product-details__excerpt__text" style="text-align: justify;">
-                                    Package Type: Vacuum Packs <br>
-									Case Dimensions: 16” x 11.75” x 3.5”<br>
-									Sensory Attributes: Meat is pink in color, well defineda.<br>
-									Cooking Instructions: Thaw in refrigerator if frozen. Grill, BBQ, bake or fry until minimum internal temperature reaches 160º F (71º Celsius)<br>
-									Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.<br>
-									Allergens: None<br>
-									Shelf Life: 90 days<br>
-									Ti Hi: 10 x 10
+                                    Mild flavor and delicious Argentine style cured pork sausage, excellent for grilling. Crafted with a unique, traditional and homemade recipe that passed through generations and high-quality ingredients. 
+                                    Our chorizos bombon are made from carefully selected, natural ingredients, ensuring superior taste and texture. They provide a wholesome and nutritious option without compromising on taste.
+                                    Each bite reveals the result of a time-honored process, meticulously perfected over the years. The
+                                    distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor
+                                    that resonates with the smoky allure of an authentic Argentine asado. It's a taste that transports you to the pampas, where grilling is not just a cooking method but a cultural celebration.<br>
+                                    Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.
+                                    Units/Pack: 25
                                 </p>
                             </div>
                         </div>
@@ -528,27 +403,11 @@
                             </div>
                             
                             <div class="product-details__excerpt">
-                                <p class="product-details__excerpt__text">
-                                    Item Name: Morcilla Argentina Bombon<br>
-									Item Number: PM1976<br>
-									Pack Weight: 5 lbs<br>
-									Units/Pack: 40<br>
-									Item Description: Bombon Blood Sausage<br>
-									UPC Code: 86000599197610<br>
-									Case Weight: 10 lbs.<br>
-									Packs/Case: 2<br>
-                                </p>
-                            </div>
-                            <div class="product-details__excerpt" style="border-bottom: 0px;">
                                 <p class="product-details__excerpt__text" style="text-align: justify;">
-                                    Package Type: Vacuum Packs <br>
-									Case Dimensions: 16” x 11.75” x 3.5”<br>
-									Sensory Attributes: Brownish color.<br>
-									Cooking Instructions: Thaw in refrigerator if frozen. Grill, BBQ, bake or fry until minimum internal temperature reaches 160º F (71º Celsius)<br>
-									Ingredients: Cured pork skin (cured with salt, sugar, dextrose, sodium nitrite), beef blood, pork fat, wheat flour, spices, salt, sodium lactate, sodium (d)acetate.<br>
-									Allergens: None<br>
-									Shelf Life: 90 days<br>
-									Ti Hi: 10 x 10
+                                    It's made with a variety of ingredients, including pork blood, fat, and spices, and is typically stuffed into a casing made from pig's intestine. 
+                                    Morcilla bombon is known for its dark color and rich taste. The ground pork is mixed with pig's blood, along with seasonings and spices. It is then piped into a casing, shaped into cylinders, flash-boiled to coagulate the blood, and hung up to cure.<br>
+                                    Ingredients: Cured pork skin (cured with salt, sugar, dextrose, sodium nitrite), beef blood, pork fat, wheat flour, spices, salt, sodium lactate, sodium (d)acetate.
+                                    Units/Pack: 25
                                 </p>
                             </div>
                         </div>
