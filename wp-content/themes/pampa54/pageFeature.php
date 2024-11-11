@@ -14,45 +14,57 @@
         <section class="about-three section-space" id="about">
             <div class="container">
                 <div class="row gutter-y-60">
-                    <div class="col-lg-4 wow fadeInLeft" data-wow-duration="1500ms">
-                        <img src="<?php echo get_template_directory_uri();?>/assets/images/gallery/gallery-instagram-1.jpg" alt="about image" class="about-three__image__two">
+                    
+                    <!-- Primer párrafo con imagen a la izquierda -->
+                    <div class="col-lg-12 d-flex align-items-center mb-5">
+                        <div class="col-lg-4 wow fadeInLeft" data-wow-duration="1500ms" style="margin-right: 30px;">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/chorizo-service.jpg" alt="about image" class="about-three__image__two">
+                        </div>
+                        <div class="col-lg-8 wow fadeInRight" data-wow-duration="1500ms">
+                            <h3>Exceptional Service</h3>
+                            <p class="about-three__text" style="text-align: justify;">
+                                Customer satisfaction is at the heart of <b>PAMPA54's</b> operations. We go above and beyond to ensure our clients receive the best service possible:
+                                <br><br>1) Personalized Support.<br>At <b>PAMPA54</b>, we believe that every client’s needs are unique. Our dedicated team offers personalized support tailored to their specific requirements, ensuring that they receive the attention and solutions that best fit your objectives.
+                                <br><br>2) Consistent Reliability.<br>Reliability is a cornerstone of our service philosophy at <b>PAMPA54</b>. Our clients can count on us to deliver high-quality services consistently, no matter the circumstances.
+                                <br><br>3) Commitment to Excellence.<br><b>PAMPA54</b> stands out for its ability to adapt to the ever-changing needs of our clients.
+                            </p>
+                        </div>
                     </div>
-                    <div class="col-lg-8 wow fadeInRight" data-wow-duration="1500ms">
-                        <div class="about-three__content">
-                            <div class="sec-title @@extraClassName">
-
-                                <h6 class="sec-title__tagline">About us / Our Company</h6>
-
-                                <h2 class="sec-title__title">Our Services</h2>
-                          
+                    
+                    <!-- Segundo párrafo con imagen a la derecha -->
+                    <div class="col-lg-12 d-flex align-items-center mb-5 flex-row-reverse">
+                        <div class="col-lg-4 wow fadeInRight" data-wow-duration="1500ms" style="margin-left: 30px;">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/distribution.jpg" alt="about image" class="about-three__image__two">
+                        </div>
+                        <div class="col-lg-8 wow fadeInLeft" data-wow-duration="1500ms">
+                            <h3>Comprehensive Distribution Services</h3>
+                            <p class="about-three__text" style="text-align: justify;">
+                                <b>PAMPA54's</b> distribution network is designed to efficiently serve the US market and Caribbean Islands, providing seamless and reliable delivery of our premium meats:
+                                <br><br>1) Strategic Warehousing.
+                                <br><br>2) Efficient Logistics.
+                            </p>
+                        </div>
                     </div>
-					<div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
-                        <p class="about-three__text" style="text-align: justify;"><b><h3>Exceptional Service</h3></b><br>
-                            Customer satisfaction is at the heart of <b>PAMPA54's</b> operations. We go above and beyond to ensure our clients receive the best service possible:<br>
-                            <br><br> 1) Personalized Support.<br>At <b>PAMPA54</b>, we believe that every client’s needs are unique. Our dedicated team offers personalized support tailored to their specific requirements, ensuring that they receive the attention and solutions that best fit your objectives. We are here to listen, understand, and respond effectively to their inquiries, creating a meaningful partnership.
-                            <br><br> 2) Consistent Reliability.<br>Reliability is a cornerstone of our service philosophy at <b>PAMPA54</b>. Our clients can count on us to deliver high-quality services consistently, no matter the circumstances. We pride ourselves on meeting deadlines and maintaining open communication, so they can always trust that we are working diligently to support their goals.
-                            <br><br> 3) Commitment to Excellence</b><br> <b>PAMPA54</b> stands out for its ability to adapt to the ever-changing needs of our clients. Our versatile team is prepared to handle a wide range of challenges and projects, providing flexible solutions (sourcing, products, new products, innovation) that evolve as your requirements grow. Whether it's a custom project or last-minute adjustments, we are committed to ensuring your success through agile service delivery.
-                            
-                        </p>
+                    
+                    <!-- Tercer párrafo con imagen a la izquierda -->
+                    <div class="col-lg-12 d-flex align-items-center mb-5">
+                        <div class="col-lg-4 wow fadeInLeft" data-wow-duration="1500ms" style="margin-right: 30px;">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/quality.jpg" alt="about image" class="about-three__image__two">
+                        </div>
+                        <div class="col-lg-8 wow fadeInRight" data-wow-duration="1500ms">
+                            <h3>Premium Quality</h3>
+                            <p class="about-three__text" style="text-align: justify;">
+                                At <b>PAMPA54</b>, we pride ourselves on offering only the highest quality meat products. Our selection features the renowned Argentine Angus beef, celebrated globally for its superior marbling, tenderness, and rich flavor. We ensure that each cut meets our rigorous standards:
+                                <br><br>1) Strict Quality Control.
+                                <br><br>2) Grass-Fed Excellence.
+                                <br><br>3) Diverse Product Range.
+                            </p>
+                        </div>
                     </div>
-                    <div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
-                        <p class="about-three__text" style="text-align: justify;"><b><h3>Comprehensive Distribution Services</h3></b><br>
-                        <b>PAMPA54's</b> distribution network is designed to efficiently serve the US market and Caribbean Islands, providing seamless and reliable delivery of our premium meats:
-                        <br><br> 1) Strategic Warehousing.
-                        <br><br>2) Efficient Logistics
-
-                        </p>
-                        <p class="about-three__text" style="text-align: justify;"><b><h3>Premium Quality:</h3></b><br>
-                        At PAMPA54, we pride ourselves on offering only the highest quality meat products. Our selection features the renowned Argentine Angus beef, celebrated globally for its superior marbling, tenderness, and rich flavor. We ensure that each cut meets our rigorous standards:
-                            <br><br> 1) Strict Quality Control
-                            <br><br> 2) Grass-Fed Excellence
-                            <br><br>3) Diverse Product Range.
-
-                        </p>
-                        
-                    </div>
+                    
                 </div>
             </div>
         </section>
 
 <?php get_footer(); ?>
+

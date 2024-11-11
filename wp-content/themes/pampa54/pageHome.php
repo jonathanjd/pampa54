@@ -53,7 +53,7 @@ shared experience of savoring our authentic Argentinean chorizos.</p>
         </section>
 
         <section class="why-choose-three section-space-two" style="padding-bottom: 60px;">
-            <div class="why-choose-three__image" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/why-choose/vaca.png);">
+            <div class="why-choose-three__image" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/products/vacanegra.png);">
             </div>
             <div class="why-choose-three__bg"></div>
             <div class="container">
