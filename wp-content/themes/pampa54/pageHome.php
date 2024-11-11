@@ -211,29 +211,29 @@ experience of savoring our authentic Argentinean chorizos.</p>
         </section>
 		
 
-        <section class="slide-text">
+        <!-- <section class="slide-text">
             <div class="slide-text__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slide-text-bg-1-1.jpg);"></div>
             <div class="container-fluid">
                 <div class="slide-text__row">
                     <h2 class="slide-text__one">Tenderloin</h2>
                     <span class="slide-text__icon icon-meat-3"></span>
-                    <h2 class="slide-text__two">Chorizo Argentino</h2>
+                    <h2 class="slide-text__one">Chorizo Argentino</h2>
                     <span class="slide-text__icon icon-meat-3"></span>
                     <h2 class="slide-text__one">New York Strip</h2>
                     <span class="slide-text__icon icon-meat-3"></span>
-                    <h2 class="slide-text__two">Chorizo Bombon</h2>
+                    <h2 class="slide-text__one">Chorizo Bombon</h2>
                     <span class="slide-text__icon icon-meat-3"></span>
                     <h2 class="slide-text__one">Ribeye</h2>
                     <span class="slide-text__icon icon-meat-3"></span>
-                    <h2 class="slide-text__two">Morcilla Argentina</h2>
+                    <h2 class="slide-text__one">Morcilla Argentina</h2>
                     <span class="slide-text__icon icon-meat-3"></span>
                     <h2 class="slide-text__one">Trip Tip</h2>
                     <span class="slide-text__icon icon-meat-3"></span>
-                    <h2 class="slide-text__two">Salchicha Parrillera</h2>
+                    <h2 class="slide-text__one">Salchicha Parrillera</h2>
                     <span class="slide-text__icon icon-meat-3"></span>
                     <h2 class="slide-text__one">Flank Steak</h2>
                 </div>
             </div>
-        </section>
+        </section> -->
 
 <?php get_footer(); ?>

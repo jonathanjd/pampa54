@@ -1083,3 +1083,8 @@ textarea {
     margin-right: auto;
     margin-bottom: 1.5em;
 }
+
+/* Custom */
+.team-two__name > a {
+    color: #1e1d1d;
+}
