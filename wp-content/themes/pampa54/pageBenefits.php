@@ -37,13 +37,23 @@
                    
                         </div>
                     </div>
-                    <div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
-                       <h3>Consistent Excellence</h3>
-                    <p class="about-three__text">With over 30 years of expertise and Argentinean roots, PAMPA54 guarantees consistent quality and flavor in every product. </p>
+                </div>
+                <hr size="2px" width="100%" noshade="noshade" align="center" />
+                <div class="row gutter-y-60">
+                    <div class="col-lg-8 wow fadeInLeft" data-wow-duration="1500ms">
+                        <div class="about-three__content">
+                            <div class="col-lg-12 wow fadeInLeft" data-wow-duration="1500ms" style="margin-top: 0px;">
+                                <h3>Consistent Excellence</h3>
+                                <p class="about-three__text">With over 30 years of expertise and Argentinean roots, PAMPA54 guarantees consistent quality and flavor in every product. </p>
+                            </div>
+                            <div class="col-lg-12 wow fadeInLet" data-wow-duration="1500ms" style="margin-top: 0px;">
+                                <h3>Customer Satisfaction</h3>
+                                <p class="about-three__text">Dedicated to delivering an unparalleled gastronomic experience, ensuring our customers' satisfaction with every purchase. </p>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
-                       <h3>Customer Satisfaction</h3>
-                    <p class="about-three__text">Dedicated to delivering an unparalleled gastronomic experience, ensuring our customers' satisfaction with every purchase. </p>
+                    <div class="col-lg-4 wow fadeInRight" data-wow-duration="1500ms">
+                        <img src="<?php echo get_template_directory_uri();?>/assets/images/gallery/gallery-instagram-5.jpg" alt="" class="about-three__image__two">
                     </div>
                 </div>
             </div>

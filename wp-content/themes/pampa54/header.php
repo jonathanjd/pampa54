@@ -99,7 +99,7 @@
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="<?php echo _PAMPA54URL_; ?>">Pampa54</a>
+                                        <a href="<?php echo _PAMPA54URL_; ?>">Our Brand</a>
                                         <ul>
                                             <li><a href="<?php echo _HISTORYURL_; ?>">Pampa54</a></li>
                                             <!-- <li><a href="<?php echo _MANIFESTOURL_; ?>">Manifesto</a></li>

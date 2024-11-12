@@ -4,10 +4,10 @@
 <section class="page-header">
             <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
             <div class="container">
-                <h2 class="page-header__title">Products</h2>
+                <h2 class="page-header__title">Our Products</h2>
                 <ul class="pampa-breadcrumb list-unstyled">
                     <li><a href="index.html">Home</a></li>
-                    <li><span>Products</span></li>
+                    <li><span>Our Products</span></li>
                 </ul>
             </div>
         </section>
