@@ -1085,6 +1085,10 @@ textarea {
 }
 
 /* Custom */
+.team-two__name {
+    color: #1e1d1d;
+}
+
 .team-two__name > a {
     color: #1e1d1d;
 }
