@@ -15,7 +15,7 @@
             <div class="container">
                 <div class="sec-title sec-title--center">
                     <!--<h6 class="sec-title__tagline">From the Pampas to your grill</h6>-->
-                    <h2 class="sec-title__title">Our Products</h2>
+                    <h2 class="sec-title__title">Our Chorizos</h2>
                 </div>
                 <div class="team-two__item-wrapper">
                     <div class="team-two__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">

@@ -17,7 +17,13 @@
                     <div class="col-lg-5 wow fadeInLeft" data-wow-duration="1500ms">
                         <div class="about-one__image">
                             <div class="about-one__image__inner">
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/about/about-1-1.jpg" alt="about image">                                
+                                <img src="<?php echo get_template_directory_uri();?>/assets/images/about/about-3-2.png" alt="about image">                                
+                                <div class="about-one__image__border"></div>
+                            </div>
+                            <br>
+                            <br>
+                            <div class="about-one__image__inner">
+                                <img src="<?php echo get_template_directory_uri();?>/assets/images/about/about-3-3.png" alt="about image">                                
                                 <div class="about-one__image__border"></div>
                             </div>
                         </div>
