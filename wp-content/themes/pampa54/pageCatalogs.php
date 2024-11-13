@@ -1,16 +1,5 @@
 <?php /* Template Name: Catalogs */ ?>
 <?php get_header(); ?>
-        <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
-            <div class="container">
-                <h2 class="page-header__title">Our Catalogs</h2>
-                <ul class="pampa-breadcrumb list-unstyled">
-                    <li><a href="<?php echo _HOMEURL_; ?>">Home</a></li>
-                    <li><span>Products</span></li>
-                </ul>
-            </div>
-        </section>
-
         <section class="about-one section-space-top" id="about">
             <div class="container">
                 <div class="row gutter-y-60">
@@ -31,8 +20,7 @@
                     <div class="col-lg-7 wow fadeInRight" data-wow-duration="1500ms">
                         <div class="about-one__content">
                             <div class="sec-title @@extraClassName">
-                                <h6 class="sec-title__tagline">We Provide Best Products.<br>You can download our catalogs below.</h6>
-
+                                <h6 class="sec-title__tagline">Our Products / Pampa54</h6>
                                 <h2 class="sec-title__title">OUR CATALOGS</h2>
                             </div>
                             <p class="about-one__text" style="text-align: justify;">

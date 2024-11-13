@@ -1,15 +1,5 @@
 <?php /* Template Name: Meat Cuts */ ?>
 <?php get_header(); ?>
-        <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
-            <div class="container">
-                <h2 class="page-header__title">Our Beef</h2>
-                <ul class="pampa-breadcrumb list-unstyled">
-                    <li><a href="<?php echo _HOMEURL_; ?>">Home</a></li>
-                    <li><span>Products</span></li>
-                </ul>
-            </div>
-        </section>
         <style>
             /* Importa la fuente manuscrita de Google Fonts */
             @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
@@ -19,6 +9,7 @@
             <div class="container">
                 <div class="sec-title sec-title--center">
                     <!--<h6 class="sec-title__tagline">From the Pampas to your grill</h6>-->
+                    <h6 class="sec-title__tagline">Our Products / Pampa54</h6>
                     <h2 class="sec-title__title">Benefits and Advantages</h2>
                     <h3 style="font-family: 'Parisienne', cursive;">of Argentine Angus Meat</h3>
                 </div>

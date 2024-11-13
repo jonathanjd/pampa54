@@ -1,15 +1,5 @@
 <?php /* Template Name: Contact */ ?>
 <?php get_header(); ?>
-        <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
-            <div class="container">
-                <h2 class="page-header__title">Contact Us</h2>
-                <ul class="pampa-breadcrumb list-unstyled">
-                    <li><a href="<?php echo _HOMEURL_; ?>">Home</a></li>
-                    <li><span>Contact Us</span></li>
-                </ul>
-            </div>
-        </section>
 
 <style>      
     .radio-container {
@@ -29,6 +19,10 @@
 
         <section class="contact-page section-space-top">
             <div class="container">
+            <div class="sec-title sec-title--center">
+                <h6 class="sec-title__tagline">Pampa54</h6>
+                <h2 class="sec-title__title">Contact Us</h2>
+            </div>
                 <div class="contact-page__wrapper">
                     <div class="contact-page__content">
                         <div class="contact-page__sec-title">

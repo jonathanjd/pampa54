@@ -1,17 +1,10 @@
 <?php /* Template Name: Sausage */ ?>
 <?php get_header(); ?>
-        <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
-            <div class="container">
-                <h2 class="page-header__title">Our Chorizos</h2>
-                <ul class="pampa-breadcrumb list-unstyled">
-                    <li><a href="<?php echo _HOMEURL_; ?>">Home</a></li>
-                    <li><span>Products</span></li>
-                </ul>
-            </div>
-        </section>
-
         <section class="team-two section-space-two" id="team">
+            <div class="sec-title sec-title--center">
+                <h6 class="sec-title__tagline">Our Products / Pampa54</h6>
+                <h2 class="sec-title__title">Our Chorizos</h2>
+            </div>
             <div class="container">
                 <div class="team-two__item-wrapper">
                     <div class="team-two__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">

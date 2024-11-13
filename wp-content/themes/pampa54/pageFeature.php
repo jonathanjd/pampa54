@@ -1,15 +1,5 @@
 <?php /* Template Name: Feature */ ?>
 <?php get_header(); ?>
-        <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
-            <div class="container">
-                <h2 class="page-header__title">Our Services</h2>
-                <ul class="pampa-breadcrumb list-unstyled">
-                    <li><a href="<?php echo _HOMEURL_; ?>">Home</a></li>
-                    <li><span>About us / Our Company</span></li>
-                </ul>
-            </div>
-        </section>
 
         <section class="about-three section-space" id="about">
             <div class="container">
@@ -21,6 +11,9 @@
                             <img src="<?php echo get_template_directory_uri();?>/assets/images/products/chorizo-service.jpg" alt="about image" class="about-three__image__two">
                         </div>
                         <div class="col-lg-8 wow fadeInRight" data-wow-duration="1500ms">
+                            <h6 class="sec-title__tagline">Our Company / Pampa54</h6>
+                            <h2 class="sec-title__title">Our Services</h2>
+                            <br><br>
                             <h3>Exceptional Service</h3>
                             <p class="about-three__text" style="text-align: justify;">
                                 Customer satisfaction is at the heart of <b>PAMPA54's</b> operations. We go above and beyond to ensure our clients receive the best service possible:
