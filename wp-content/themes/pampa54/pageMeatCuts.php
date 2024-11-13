@@ -1,15 +1,6 @@
 <?php /* Template Name: Meat Cuts */ ?>
 <?php get_header(); ?>
-        <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
-            <div class="container">
-                <h2 class="page-header__title">Our Beef</h2>
-                <ul class="pampa-breadcrumb list-unstyled">
-                    <li><a href="<?php echo _HOMEURL_; ?>">Home</a></li>
-                    <li><span>Products</span></li>
-                </ul>
-            </div>
-        </section>
+        
         <style>
             /* Importa la fuente manuscrita de Google Fonts */
             @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');

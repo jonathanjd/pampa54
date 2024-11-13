@@ -1,15 +1,6 @@
 <?php /* Template Name: Contact */ ?>
 <?php get_header(); ?>
-        <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
-            <div class="container">
-                <h2 class="page-header__title">Contact Us</h2>
-                <ul class="pampa-breadcrumb list-unstyled">
-                    <li><a href="<?php echo _HOMEURL_; ?>">Home</a></li>
-                    <li><span>Contact Us</span></li>
-                </ul>
-            </div>
-        </section>
+        
 
 <style>      
     .radio-container {
