@@ -1,6 +1,5 @@
 <?php /* Template Name: Feature */ ?>
 <?php get_header(); ?>
-        
 
         <section class="about-three section-space" id="about">
             <div class="container">
@@ -12,6 +11,9 @@
                             <img src="<?php echo get_template_directory_uri();?>/assets/images/products/support.jpg" alt="about image" class="about-three__image__two">
                         </div>
                         <div class="col-lg-8 wow fadeInRight" data-wow-duration="1500ms">
+                            <h6 class="sec-title__tagline">Our Company / Pampa54</h6>
+                            <h2 class="sec-title__title">Our Services</h2>
+                            <br><br>
                             <h3>Exceptional Service</h3>
                             <p class="about-three__text" style="text-align: justify;">
                                 Customer satisfaction is at the heart of <b>PAMPA54's</b> operations. We go above and beyond to ensure our clients receive the best service possible:

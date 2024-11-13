@@ -1,6 +1,5 @@
 <?php /* Template Name: Meat Cuts */ ?>
 <?php get_header(); ?>
-        
         <style>
             /* Importa la fuente manuscrita de Google Fonts */
             @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
@@ -10,6 +9,7 @@
             <div class="container">
                 <div class="sec-title sec-title--center">
                     <!--<h6 class="sec-title__tagline">From the Pampas to your grill</h6>-->
+                    <h6 class="sec-title__tagline">Our Products / Pampa54</h6>
                     <h2 class="sec-title__title">Benefits and Advantages</h2>
                     <h3 style="font-family: 'Parisienne', cursive;">of Argentine Angus Meat</h3>
                 </div>

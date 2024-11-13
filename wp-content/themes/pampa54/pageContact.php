@@ -1,6 +1,5 @@
 <?php /* Template Name: Contact */ ?>
 <?php get_header(); ?>
-        
 
 <style>      
     .radio-container {
@@ -20,6 +19,10 @@
 
         <section class="contact-page section-space-top">
             <div class="container">
+            <div class="sec-title sec-title--center">
+                <h6 class="sec-title__tagline">Pampa54</h6>
+                <h2 class="sec-title__title">Contact Us</h2>
+            </div>
                 <div class="contact-page__wrapper">
                     <div class="contact-page__content">
                         <div class="contact-page__sec-title">

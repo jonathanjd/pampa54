@@ -1,8 +1,10 @@
 <?php /* Template Name: Sausage */ ?>
 <?php get_header(); ?>
-        
-
         <section class="team-two section-space-two" id="team">
+            <div class="sec-title sec-title--center">
+                <h6 class="sec-title__tagline">Our Products / Pampa54</h6>
+                <h2 class="sec-title__title">Our Chorizos</h2>
+            </div>
             <div class="container">
                 <div class="team-two__item-wrapper">
                     <div class="team-two__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">

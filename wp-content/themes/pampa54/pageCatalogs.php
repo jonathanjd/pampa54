@@ -1,7 +1,5 @@
 <?php /* Template Name: Catalogs */ ?>
 <?php get_header(); ?>
-        
-
         <section class="about-one section-space-top" id="about">
             <div class="container">
                 <div class="row gutter-y-60">
@@ -22,8 +20,7 @@
                     <div class="col-lg-7 wow fadeInRight" data-wow-duration="1500ms">
                         <div class="about-one__content">
                             <div class="sec-title @@extraClassName">
-                                <h6 class="sec-title__tagline">We Provide Best Products.<br>You can download our catalogs below.</h6>
-
+                                <h6 class="sec-title__tagline">Our Products / Pampa54</h6>
                                 <h2 class="sec-title__title">OUR CATALOGS</h2>
                             </div>
                             <p class="about-one__text" style="text-align: justify;">
