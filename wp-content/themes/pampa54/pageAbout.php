@@ -32,10 +32,9 @@
                     </div>
                 </div>
             </div>
-</SECTION>
-<section class="why-choose-three section-space-two" style="padding-bottom: 60px;">
+</section>
 
-<SECTION CLASS="CONTAINER-SERVICES">
+<section CLASS="CONTAINER-SERVICES">
     <div class="container" style="text-align: center;">
         <h2 class="sec-title__title mb-4">OUR SERVICES</h2>
     </div>
