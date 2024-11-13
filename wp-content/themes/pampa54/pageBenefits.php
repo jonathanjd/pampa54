@@ -13,7 +13,7 @@
 
                                 <h6 class="sec-title__tagline">Our Brand / Pampa54</h6>
 
-                                <h2 class="sec-title__title">What We Offer</h2>
+                                <h2 class="sec-title__title">Benefits</h2>
                             </div>
                             <div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
                        <h3>Authentic Flavor</h3>
