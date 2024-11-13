@@ -1,6 +1,6 @@
 <?php /* Template Name: Pampa54 */ ?>
 <?php get_header(); ?>
-        <section class="page-header">
+        <!-- <section class="page-header">
             <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
             <div class="container">
                 <h2 class="page-header__title">Pampa 54</h2>
@@ -9,7 +9,7 @@
                     <li><span>About us</span></li>
                 </ul>
             </div>
-        </section>
+        </section> -->
 
        
         <section class="why-choose-three section-space-two" style="padding-bottom: 60px;">

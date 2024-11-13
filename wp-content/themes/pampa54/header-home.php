@@ -89,17 +89,17 @@
                                         <a href="<?php echo _HOMEURL_; ?>">Home</a>
                                     </li>
 									<li class="dropdown">
-                                        <a href="<?php echo _ABOUTURL_; ?>">Our Company</a>
+                                        <a href="#">Our Company</a>
                                         <ul>
-                                            <li><a href="<?php echo _DESCRIPTIONURL_; ?>">About Us</a></li>
+                                            <li><a href="<?php echo _ABOUTURL_; ?>">About Us</a></li>
                                             <li><a href="<?php echo _MISSIONURL_; ?>">Our Mission</a></li>
                                             <li><a href=" <?php echo _FEATUREURL_;?>">Our Services</a></li>
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="<?php echo _PAMPA54URL_; ?>">Our Brand</a>
+                                        <a href="#">Our Brand</a>
                                         <ul>
-                                            <li><a href="<?php echo _HISTORYURL_; ?>">Pampa54</a></li>
+                                            <li><a href="<?php echo _PAMPA54URL_; ?>">Pampa54</a></li>
                                             <!-- <li><a href="<?php echo _MANIFESTOURL_; ?>">Manifesto</a></li>
                                             <li><a href="<?php echo _BRANDPURPOSEURL_; ?>">Brand Purpose</a></li> -->
                                             <li><a href="<?php echo _BENEFITSURL_; ?>">What we offer</a></li>
