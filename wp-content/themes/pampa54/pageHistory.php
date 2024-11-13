@@ -15,7 +15,7 @@
             <div class="container">
                 <div class="row gutter-y-60">
                     <div class="col-lg-4 wow fadeInLeft" data-wow-duration="1500ms">
-                    <img src="<?php echo get_template_directory_uri();?>/assets/images/gallery/gallery-instagram-3.jpg" alt="" class="about-three__image__two">
+                    <img src="<?php echo get_template_directory_uri();?>/assets/images/products/chorizos-2.png" alt="" class="about-three__image__two">
                      
                     </div>
                     <div class="col-lg-8 wow fadeInRight" data-wow-duration="1500ms">

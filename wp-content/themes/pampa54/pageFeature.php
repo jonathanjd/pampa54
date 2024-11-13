@@ -18,7 +18,7 @@
                     <!-- Primer párrafo con imagen a la izquierda -->
                     <div class="col-lg-12 d-flex align-items-center mb-5">
                         <div class="col-lg-4 wow fadeInLeft" data-wow-duration="1500ms" style="margin-right: 30px;">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/chorizo-service.jpg" alt="about image" class="about-three__image__two">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/support.jpg" alt="about image" class="about-three__image__two">
                         </div>
                         <div class="col-lg-8 wow fadeInRight" data-wow-duration="1500ms">
                             <h3>Exceptional Service</h3>
@@ -34,7 +34,7 @@
                     <!-- Segundo párrafo con imagen a la derecha -->
                     <div class="col-lg-12 d-flex align-items-center mb-5 flex-row-reverse">
                         <div class="col-lg-4 wow fadeInRight" data-wow-duration="1500ms" style="margin-left: 30px;">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/distribution.jpg" alt="about image" class="about-three__image__two">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/truck.jpg" alt="about image" class="about-three__image__two">
                         </div>
                         <div class="col-lg-8 wow fadeInLeft" data-wow-duration="1500ms">
                             <h3>Comprehensive Distribution Services</h3>
@@ -49,7 +49,7 @@
                     <!-- Tercer párrafo con imagen a la izquierda -->
                     <div class="col-lg-12 d-flex align-items-center mb-5">
                         <div class="col-lg-4 wow fadeInLeft" data-wow-duration="1500ms" style="margin-right: 30px;">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/quality.jpg" alt="about image" class="about-three__image__two">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/products/chorizo-service.jpg" alt="about image" class="about-three__image__two">
                         </div>
                         <div class="col-lg-8 wow fadeInRight" data-wow-duration="1500ms">
                             <h3>Premium Quality</h3>
