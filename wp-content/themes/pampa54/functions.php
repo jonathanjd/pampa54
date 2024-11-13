@@ -207,3 +207,18 @@ require get_template_directory() . '/inc/customizer.php';
 if ( defined( 'JETPACK__VERSION' ) ) {
 	require get_template_directory() . '/inc/jetpack.php';
 }
+
+/**
+ * Translate content to English and Spanish
+ */
+function translateEnEs($en, $es) {
+
+	if (strpos($_SERVER['REQUEST_URI'], '-es')) {
+		// 
+		echo $es;
+	} else {
+		// Mostrar contenido en español
+		echo $en;
+	}
+
+}

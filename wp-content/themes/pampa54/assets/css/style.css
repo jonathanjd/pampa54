@@ -1800,7 +1800,6 @@ h6 {
   letter-spacing: -1.1px;
   text-transform: uppercase;
   color: var(--pampa-white, #ffffff);
-  text-shadow: 1px 1px 0 var(--pampa-text1, #51a1bb), -1px -1px 0 var(--pampa-text1, #51a1bb), 1px -1px 0 var(--pampa-text1, #51a1bb), -1px 1px 0 var(--pampa-text1, #51a1bb), 1px 1px 0 var(--pampa-text1, #51a1bb);
   margin-bottom: 0;
   transition: all 500ms ease;
 }
