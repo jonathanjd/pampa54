@@ -1,5 +1,13 @@
 <?php /* Template Name: Benefits */ ?>
 <?php get_header(); ?>
+        <section class="page-header">
+            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slide-background.png);"></div>
+            <div class="container">
+                <h6 class="sec-title__tagline" style="font-size: 25px;">Our Brand / Pampa54</h6>
+                <h2 class="sec-title__title" style="color: white; font-size:80px;">Benefits</h2>
+            </div>
+        </section>
+
         <section class="about-three section-space" id="about">
             <div class="container">
                 <div class="row gutter-y-60">
@@ -9,12 +17,12 @@
                     </div>
                     <div class="col-lg-8 wow fadeInRight" data-wow-duration="1500ms">
                         <div class="about-three__content">
-                            <div class="sec-title @@extraClassName">
+                            <!--<div class="sec-title @@extraClassName">
 
                                 <h6 class="sec-title__tagline">Our Brand / Pampa54</h6>
 
                                 <h2 class="sec-title__title">Benefits</h2>
-                            </div>
+                            </div>-->
                             <div class="col-lg-12 wow fadeInRight" data-wow-duration="1500ms" style="margin-top: 0px;">
                        <h3>Authentic Flavor</h3>
                     <p class="about-three__text">Enjoy the genuine taste of Argentinean chorizos, crafted with traditional recipes and high-quality ingredients. </p>

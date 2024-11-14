@@ -1,12 +1,19 @@
 <?php /* Template Name: Products */ ?>
 <?php get_header(); ?>
+        <section class="page-header">
+            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slide-background.png);"></div>
+            <div class="container">
+                <h6 class="sec-title__tagline" style="font-size: 25px;">From the Pampas to your grill</h6>
+                <h2 class="sec-title__title" style="color: white; font-size:80px;">Our Products</h2>
+            </div>
+        </section>
 
         <section class="team-two section-space-two" id="team">
             <div class="container">
-                <div class="sec-title sec-title--center">
+                <!--<div class="sec-title sec-title--center">
                     <h6 class="sec-title__tagline">From the Pampas to your grill</h6>
                     <h2 class="sec-title__title">Our Products</h2>
-                </div>
+                </div>-->
                 <div class="team-two__item-wrapper">
                     <div class="team-two__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                         <div class="team-two__item__bg"></div>
