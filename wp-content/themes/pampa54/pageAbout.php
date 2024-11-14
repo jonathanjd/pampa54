@@ -26,9 +26,7 @@
 </section>
 
 <section CLASS="CONTAINER-SERVICES">
-    <div class="container" style="text-align: center;">
-        <h2 class="sec-title__title mb-4">OUR SERVICES</h2>
-    </div>
+    <
 
 <div class="container">
     <div class="row">
@@ -38,27 +36,55 @@
                 <div class="col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                     <div class="why-choose-three__card">
                         <div class="why-choose-three__card__icon">
-                            <span class="icon-achievement"></span>
+                            <span class="icon-meat-5"></span>
                         </div>
                         <div class="why-choose-three__card__content">
-                            <h4 class="why-choose-three__card__title">Manifesto</h4>
+                            <h4 class="why-choose-three__card__title">Authentic Flavor</h4>
                         </div>
                     </div>
                     <p class="why-choose-three__text" style="padding-top: 20px;">
-                    In the heart of Argentina, where the Pampas stretch endlessly, and the art of Asado is a revered tradition, PAMPA54 was bom. A premium brand that encapsulates the spirit of the land, where Asado isn't just a meal; it's a sacred ceremony that unites friends and family. Step into the PAMPA54 experience, where each product is a chapter in the story of Argentine Asado.
+                    Enjoy the genuine taste of Argentinean chorizos, crafted with traditional recipes and high-quality ingredients.
                     </p>
                 </div>
                 <div class="col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
                     <div class="why-choose-three__card">
                         <div class="why-choose-three__card__icon">
-                            <span class="icon-healthcare-1"></span>
+                            <span class="icon-star"></span>
                         </div>
                         <div class="why-choose-three__card__content">
-                            <h4 class="why-choose-three__card__title">Our Purpose</h4>
+                            <h4 class="why-choose-three__card__title">Consistent Excellence</h4>
                         </div>
                     </div>
                     <p class="why-choose-three__text" style="padding-top: 20px;">
-                        At <strong>PAMPA54</strong>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the shared experience of savoring our authentic Argentinean chorizos.
+                    With over 30 years of expertise and Argentinean roots, PAMPA54 guarantees consistent quality and flavor in every product.
+                    </p>
+                </div>
+            </div>
+            <div class="row gutter-y-30">
+                <div class="col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
+                    <div class="why-choose-three__card">
+                        <div class="why-choose-three__card__icon">
+                            <span class="icon-quality"></span>
+                        </div>
+                        <div class="why-choose-three__card__content">
+                            <h4 class="why-choose-three__card__title">Premium Quality</h4>
+                        </div>
+                    </div>
+                    <p class="why-choose-three__text" style="padding-top: 20px;">
+                    Our sausages are made from carefully selected, natural ingredients, ensuring superior taste and texture. Our sausages provide a wholesome and nutritious option without compromising on taste.
+                    </p>
+                </div>
+                <div class="col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
+                    <div class="why-choose-three__card">
+                        <div class="why-choose-three__card__icon">
+                            <span class="icon-check-mark"></span>
+                        </div>
+                        <div class="why-choose-three__card__content">
+                            <h4 class="why-choose-three__card__title">Customer Satisfaction</h4>
+                        </div>
+                    </div>
+                    <p class="why-choose-three__text" style="padding-top: 20px;">
+                    Dedicated to delivering an unparalleled gastronomic experience, ensuring our customers' satisfaction with every purchase.
                     </p>
                 </div>
             </div>
@@ -66,43 +92,8 @@
     </div>
 </div>
 
-            <div class="container mt-5">
-            
-        <div class="row">
-            <div class="col-md-6 col-lg-6 mb-4">
-                <div class="card h-100">
-                    <div class="card-body">
-                        <h5 class="sec-title__tagline">Authentic Flavor</h5>
-                        <p class="card-text">Enjoy the genuine taste of Argentinean chorizos, crafted with traditional recipes and high-quality ingredients.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-6 mb-4">
-                <div class="card h-100">
-                    <div class="card-body">
-                        <h5 class="sec-title__tagline">Consistent Excellence</h5>
-                        <p class="card-text">With over 30 years of expertise and Argentinean roots, PAMPA54 guarantees consistent quality and flavor in every product.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-6 mb-4">
-                <div class="card h-100">
-                    <div class="card-body">
-                        <h5 class="sec-title__tagline">Premium Quality</h5>
-                        <p class="card-text">Our sausages are made from carefully selected, natural ingredients, ensuring superior taste and texture. Our sausages provide a wholesome and nutritious option without compromising on taste.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-6 mb-4">
-                <div class="card h-100">
-                    <div class="card-body">
-                        <h5 class="sec-title__tagline">Customer Satisfaction</h5>
-                        <p class="card-text">Dedicated to delivering an unparalleled gastronomic experience, ensuring our customers' satisfaction with every purchase.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+           
+                      
         </section>
 
 <?php get_footer(); ?>
