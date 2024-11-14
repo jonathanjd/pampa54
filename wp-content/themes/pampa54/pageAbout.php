@@ -1,6 +1,12 @@
 <?php /* Template Name: About Us */ ?>
 <?php get_header(); ?>
-        
+        <section class="page-header">
+            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slide-background.png);"></div>
+            <div class="container">
+                <h6 class="sec-title__tagline" style="font-size: 25px;">ABOUT PAMPA54</h6>
+                <h2 class="sec-title__title" style="color: white; font-size:60px;">A LEGACY OF QUALITY AND TRADITION</h2>
+            </div>
+        </section>
 
         <section class="about-three section-space" id="about">
             
@@ -11,14 +17,7 @@
                     </div>
                     <div class="col-lg-8 wow fadeInRight" data-wow-duration="1500ms">
                         <div class="about-three__content">
-                            <div class="sec-title @@extraClassName">
-
-                                <h6 class="sec-title__tagline">ABOUT PAMPA54</h6>
-
-                                <h2 class="sec-title__title">A LEGACY OF QUALITY AND TRADITION</h2>
-                            </div>
                             <h4 class="about-three__text">A premium meat distribution company, located in Miami, Fl, US. </h4>
-                        
                         <p class="about-three__text">PAMPA54 is a company founded by a visionary entrepreneur driven by passion, integrity, and a deep-rooted connection to the world of meat. </p>
                     </div>
                 </div>
