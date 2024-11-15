@@ -4,7 +4,7 @@
             <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slide-background.png);"></div>
             <div class="container">
                 <h6 class="sec-title__tagline" style="font-size: 25px;">Our Brand / Pampa54</h6>
-                <h2 class="sec-title__title" style="color: white; font-size:80px;">Benefits</h2>
+                <h2 class="sec-title__title" style="color: white; font-size:80px;">What we offer</h2>
             </div>
         </section>
 

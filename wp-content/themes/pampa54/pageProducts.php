@@ -26,7 +26,7 @@
                             </div>
                             <div class="col-xl-4 col-lg-3">
                                 <div class="team-two__image">
-                                    <img src="<?php echo get_template_directory_uri();?>/assets/images/products/product1.jpg" alt="">                                    
+                                    <img src="<?php echo get_template_directory_uri();?>/assets/images/products/product1.png" alt="">                                    
                                 </div>
                             </div>
                         </div>
