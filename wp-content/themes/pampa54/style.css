@@ -1096,3 +1096,33 @@ textarea {
 .pampa-breadcrumb {
     display: none;
 }
+
+.card-service {
+    transition: box-shadow 0.3s ease;
+}
+
+.card-body {
+    transition: background-color 0.3s ease; /* Añade transición aquí */
+}
+
+.card-service:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+
+.card-service:hover .card-body {
+    background-color: #9a8349 !important; 
+    color: #fff !important;
+}
+
+.card-service img {
+    transition: transform 0.3s ease;
+}
+
+/* Efecto de zoom cuando se pasa el mouse sobre la tarjeta */
+.card-service:hover img {
+    transform: scale(1.1); /* Ajusta el valor según el nivel de zoom deseado */
+}
+
+.card-service {
+    overflow: hidden;
+}
