@@ -17,7 +17,78 @@
                     <div class="d-flex flex-column justify-content-center align-items-center" style="border-bottom: 3px solid #9a8349;">
                     
                         <img src="<?php echo get_template_directory_uri();?>/assets/images/products/support.jpg" class="card-img-top" alt="Exceptional Service">
-                        
+                        <?php /*<?php /* Template<<?php /* Template Name: Feature */ ?>
+<?php get_header(); ?>
+        <section class="page-header">
+            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slide-background.png);"></div>
+            <div class="container">
+                <h6 class="sec-title__tagline" style="font-size: 25px;">Our Company / Pampa54</h6>
+                <h2 class="sec-title__title" style="color: white; font-size:80px;">Our Services</h2>
+            </div>
+        </section>
+        <section class="about-three section-space" id="about">
+    <div class="container">
+        <div class="row">
+
+            <!-- Tarjeta 1: Exceptional Service -->
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="card info-card">
+                    <div class="card-service">
+                        <img src="<?php echo get_template_directory_uri();?>/assets/images/products/support.jpg" class="card-img-top" alt="Exceptional Service">
+                        <div class="overlay">
+                            <h5 class="overlay-text"><br>Exceptional Service</h5>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">
+                            Customer satisfaction is at the heart of <b>PAMPA54's</b> operations. We go above and beyond to ensure our clients receive the best service possible:
+                            <br><br>1) Personalized Support.<br>Our dedicated team offers personalized support tailored to specific requirements, ensuring clients receive the attention and solutions that best fit their objectives.
+                            <br><br>2) Consistent Reliability.<br>Reliability is a cornerstone of our service philosophy at <b>PAMPA54</b>.
+                            <br><br>3) Commitment to Excellence.<br><b>PAMPA54</b> stands out for its ability to adapt to the ever-changing needs of our clients.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tarjeta 2: Comprehensive Distribution Services -->
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="card info-card">
+                    <div class="card-service">
+                        <img src="<?php echo get_template_directory_uri();?>/assets/images/products/truck.jpg" class="card-img-top" alt="Comprehensive Distribution Services">
+                        <div class="overlay">
+                            <h5 class="overlay-text"><br>Comprehensive Distribution Services</h5>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">
+                            <b>PAMPA54's</b> distribution network is designed to efficiently serve the US market and Caribbean Islands, providing seamless and reliable delivery of our premium meats.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tarjeta 3: Premium Quality -->
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="card info-card">
+                    <div class="card-service">
+                        <img src="<?php echo get_template_directory_uri();?>/assets/images/products/chorizo-service.jpg" class="card-img-top" alt="Premium Quality">
+                        <div class="overlay">
+                            <h5 class="overlay-text"><br>Premium Quality</h5>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">
+                            At <b>PAMPA54</b>, we pride ourselves on offering only the highest quality meat products. Our selection features the renowned Argentine Angus beef, celebrated globally for its superior marbling, tenderness, and rich flavor.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<?php get_footer(); ?>
                             <h5 style="text-align:center; color: #fff; margin-bottom: 0;background-color: #1E1D1D; width: 100%;" class="py-2 wow fadeInUp" data-wow-duration="1500ms">Exceptional Service</h5>
                         
                     </div>
