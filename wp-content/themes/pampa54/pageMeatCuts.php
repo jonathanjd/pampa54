@@ -8,7 +8,7 @@
             <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slide-background.png);"></div>
             <div class="container">
                 <h6 class="sec-title__tagline" style="font-size: 25px;">Our Products / Pampa54</h6>
-                <h2 class="sec-title__title" style="color: white; font-size:80px;">Our Chorizos</h2>
+                <h2 class="sec-title__title" style="color: white; font-size:80px;">OUR BEEF</h2>
                 <h3 style="font-family: 'Parisienne', cursive; color: white;">of Argentine Angus Meat</h3>
             </div>
         </section>
