@@ -18,7 +18,10 @@
                     <div class="col-lg-8 wow fadeInRight" data-wow-duration="1500ms">
                         <div class="about-three__content">
                             <h4 class="about-three__text">A premium meat distribution company, located in Miami, Fl, US. </h4>
-                        <p class="about-three__text">PAMPA54 is a company founded by a visionary entrepreneur driven by passion, integrity, and a deep-rooted connection to the world of meat. </p>
+                        <p class="about-three__text" style="text-align: justify;"><strong>PAMPA54</strong> is a company founded by a visionary entrepreneur driven by passion, integrity, and a deep-rooted connection to the world of meat.<br><br>
+                                                     At <strong>PAMPA54</strong>, we pride ourselves on offering only the highest quality meat products. Our selection features the renowned Argentine Angus beef, celebrated globally for its superior marbling, tenderness, and rich flavor. We ensure that each cut meets our rigorous standards.<br><br>
+                                                     <strong>Pampa54</strong>, with Argentine roots, offers an authentic line of gourmet chorizos, made from a traditional recipe and natural ingredients. Ideal for complementing an “asado”, it never disappoints.<br>
+                        </p>
                     </div>
                 </div>
             </div>
