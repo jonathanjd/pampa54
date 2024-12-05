@@ -14,7 +14,7 @@
         <div class="row gutter-y-60 d-flex align-items-center">
             <!-- Imagen -->
             <div class="col-lg-4 wow fadeInLeft" data-wow-duration="1500ms">
-                <img src="<?php echo get_template_directory_uri();?>/assets/images/products/chorizos-1.png" alt="Chorizos" class="about-three__image__two">
+                <img src="<?php echo get_template_directory_uri();?>/assets/images/products/chorizos-2.png" alt="Chorizos" class="about-three__image__two">
             </div>
             
             <!-- Contenedor de tarjetas (cards) -->
@@ -55,7 +55,9 @@
     </div>
     <div class="container">
         <div class="row gutter-y-60 d-flex align-items-center">
-           
+        <div class="col-lg-4 wow fadeInRight" data-wow-duration="1500ms">
+                        <img src="<?php echo get_template_directory_uri();?>/assets/images/gallery/gallery-instagram-2-1.png" alt="" class="about-three__image__two">
+                    </div>
             
             <!-- Contenedor de tarjetas (cards) -->
             <div class="col-lg-8 wow fadeInRight d-flex" data-wow-duration="1500ms">
@@ -91,9 +93,7 @@
                 </div>
             </div>
             </div>
-            <div class="col-lg-4 wow fadeInRight" data-wow-duration="1500ms">
-                        <img src="<?php echo get_template_directory_uri();?>/assets/images/gallery/gallery-instagram-2-1.png" alt="" class="about-three__image__two">
-                    </div>
+            
         </div>
     </div>
 </section>

@@ -13,7 +13,7 @@
             <div class="container">
                 <div class="row gutter-y-60">
                     <div class="col-lg-4 wow fadeInLeft" data-wow-duration="1500ms">
-                    <img src="<?php echo get_template_directory_uri();?>/assets/images/about/about-3-2.jpg" alt="" class="about-three__image__two">
+                    <img src="<?php echo get_template_directory_uri();?>/assets/images/about/about-3-5.jpg" alt="" class="about-three__image__two">
                     </div>
                     <div class="col-lg-8 wow fadeInRight" data-wow-duration="1500ms">
                         <div class="about-three__content">
@@ -27,75 +27,54 @@
             </div>
 </section>
 
-<section CLASS="CONTAINER-SERVICES">
-    
-
-<div class="container">
-    <div class="row">
-       
-        <div class="col-xl-12 col-md-10 ms-auto">
-            <div class="row gutter-y-30">
-                <div class="col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
-                    <div class="why-choose-three__card">
-                        <div class="why-choose-three__card__icon">
-                            <span class="icon-meat-5"></span>
-                        </div>
-                        <div class="why-choose-three__card__content">
-                            <h4 class="why-choose-three__card__title">Authentic Flavor</h4>
+<section class="gallery-instagram">
+            <div class="container-fluid">
+                <div class="gallery-instagram__grid">
+                    <div class="gallery-instagram__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
+                        <div class="gallery-instagram__image">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/gallery/gallery-frente.jpg" alt="">
+                            <a href="#" class="gallery-instagram__image__link">
+                             
+                            </a>
                         </div>
                     </div>
-                    <p class="why-choose-three__text" style="padding-top: 20px;">
-                    Enjoy the genuine taste of Argentinean chorizos, crafted with traditional recipes and high-quality ingredients.
-                    </p>
-                </div>
-                <div class="col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
-                    <div class="why-choose-three__card">
-                        <div class="why-choose-three__card__icon">
-                            <span class="icon-star"></span>
-                        </div>
-                        <div class="why-choose-three__card__content">
-                            <h4 class="why-choose-three__card__title">Consistent Excellence</h4>
+                    <div class="gallery-instagram__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
+                        <div class="gallery-instagram__image">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/gallery/gallery-ingreso.jpg" alt="">
+                            <a href="#" class="gallery-instagram__image__link">
+                             
+                            </a>
                         </div>
                     </div>
-                    <p class="why-choose-three__text" style="padding-top: 20px;">
-                    With over 30 years of expertise and Argentinean roots, PAMPA54 guarantees consistent quality and flavor in every product.
-                    </p>
-                </div>
-            </div>
-            <div class="row gutter-y-30">
-                <div class="col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
-                    <div class="why-choose-three__card">
-                        <div class="why-choose-three__card__icon">
-                            <span class="icon-quality"></span>
-                        </div>
-                        <div class="why-choose-three__card__content">
-                            <h4 class="why-choose-three__card__title">Premium Quality</h4>
+                    <div class="gallery-instagram__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="400ms">
+                        <div class="gallery-instagram__image">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/gallery/gallery-interior.jpg" alt="">
+                            <a href="#" class="gallery-instagram__image__link">
+                             
+                            </a>
                         </div>
                     </div>
-                    <p class="why-choose-three__text" style="padding-top: 20px;">
-                    Our sausages are made from carefully selected, natural ingredients, ensuring superior taste and texture. Our sausages provide a wholesome and nutritious option without compromising on taste.
-                    </p>
-                </div>
-                <div class="col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
-                    <div class="why-choose-three__card">
-                        <div class="why-choose-three__card__icon">
-                            <span class="icon-check-mark"></span>
-                        </div>
-                        <div class="why-choose-three__card__content">
-                            <h4 class="why-choose-three__card__title">Customer Satisfaction</h4>
+                    <div class="gallery-instagram__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="600ms">
+                        <div class="gallery-instagram__image">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/gallery/gallery-estante.jpg" alt="">
+                            <a href="#" class="gallery-instagram__image__link">
+                             
+                            </a>
                         </div>
                     </div>
-                    <p class="why-choose-three__text" style="padding-top: 20px;">
-                    Dedicated to delivering an unparalleled gastronomic experience, ensuring our customers' satisfaction with every purchase.
-                    </p>
+                    <div class="gallery-instagram__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="800ms">
+                        <div class="gallery-instagram__image">
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/gallery/gallery-escalera.jpg" alt="">
+                            <a href="#" class="gallery-instagram__image__link">
+                             
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
-</div>
-
-           
-                      
         </section>
+        <section class="testimonials-three section-space-two" id="testimonials" style="padding-top: 147px; padding-bottom: 50px;">
+            
+            </section>
 
 <?php get_footer(); ?>
