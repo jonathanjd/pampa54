@@ -410,6 +410,35 @@
                         </div>
                     </div>
                 </div>
+                <hr>
+
+                <div class="row gutter-y-50">
+                    <div class="col-lg-5 col-xl-6 wow fadeInLeft" data-wow-delay="200ms">
+                        <img src="<?php echo get_template_directory_uri();?>/assets/images/gallery/sausage-11.png" alt="">
+                    </div>
+                  <div class="col-lg-7 col-xl-6 wow fadeInRight" data-wow-delay="300ms">
+                        <div class="product-details__content">
+                            <div class="product-details__top">
+                                <div class="product-details__top__left">                                    
+                                    <h4 class="product-details__price">CHORIZO ARGENTINO PRE-COOKED</h4>
+									<h3 class="product-details__name">Foodservice (NEW PRODUCT)</h3>
+                                </div>                                
+                            </div>
+                            
+                            <div class="product-details__excerpt">
+                                <p class="product-details__excerpt__text" style="text-align: justify;">
+                                    Mild flavor and delicious Argentine style cured pork sausage, excellent for grilling. Crafted with a unique, traditional and homemade recipe that passed through generations and high-quality ingredients.
+                                    Our chorizos are made from carefully selected, natural ingredients, ensuring superior taste and texture. They provide a wholesome and nutritious option without compromising on taste.
+                                    Each bite reveals the result of a time-honored process, meticulously perfected over the years. The distinctive blend of spices and seasonings, combined with the finest cuts of pork, delivers a unique flavor that resonates with the smoky allure of an authentic Argentine asado. It's a taste that transports you to the pampas, where grilling is not just a cooking method but a cultural celebration.
+                                    Especially developed by Pampa54 for FoodService customers who need to reduce process times without compromising freshness, flavor and delicious tasting.<br>
+                                    Ingredients: Pork, pork fat, curing salt (salt, sugar, dextrose, sodium nitrite), water, spices, garlic, sodium erythorbate.
+                                    Units/Pack: 25
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
             </div>
         </section>
 
