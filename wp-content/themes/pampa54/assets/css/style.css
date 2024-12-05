@@ -1958,11 +1958,10 @@ h6 {
     position: absolute;
     top: 0;
     right: 0;
-    width: 0%;
+    width: 100%;
     height: 100%;
     z-index: -1;
-    transition: all 2000ms ease;
-    background-color: var(--pampa-base, #cbb17c);
+    transition: all 1000ms ease;
 }
 
 .team-two__item__bg::after {
@@ -1977,8 +1976,8 @@ h6 {
 }
 
 .team-two__item:hover .team-two__item__bg {
-    left: 0;
     width: 100%;
+    background-color: var(--pampa-base, #cbb17c);
 }
 
 .team-two .row {
