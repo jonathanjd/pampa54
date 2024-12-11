@@ -6,19 +6,8 @@
                 <div class="row gutter-y-60">
                     <div class="col-lg-6 wow fadeInLeft" data-wow-duration="1500ms">
                         <div class="about-three__image">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/about/about-1.jpg" alt="" class="about-three__image__one">
-                            <div class="about-three__image__inner">
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/about/about-3-2.jpg" alt="" class="about-three__image__two">
-                            </div>
-                            <div class="about-three__experience">
-                                <div class="about-three__experience__content">
-                                    <div class="about-three__experience__text">
-                                        <h4 class="about-three__experience__title">years of <br>
-                                            experience</h4>
-                                    </div>
-                                  <h4 class="about-three__experience__year">30+</h4>
-                                </div>
-                            </div>
+                            <img src="<?php echo get_template_directory_uri();?>/assets/images/about/about-3-4.png" alt="" class="about-three__image__one">
+                            
                         </div>
                     </div>
                     <div class="col-lg-6 wow fadeInRight" data-wow-duration="1500ms">
