@@ -35,7 +35,7 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="card info-card shadow wow fadeInUp card-service" style="min-height: 795px;">
                     <div class="d-flex flex-column justify-content-center align-items-center" style="border-bottom: 3px solid #9a8349;">
-                        <img src="<?php echo get_template_directory_uri();?>/assets/images/products/truck.jpg" class="card-img-top" alt="Comprehensive Distribution Services">
+                        <img src="<?php echo get_template_directory_uri();?>/assets/images/products/map.png" class="card-img-top" alt="Comprehensive Distribution Services">
                         
                             <h5 style="text-align:center; color: #fff; margin-bottom: 0;background-color: #1E1D1D; width: 100%;" class="py-2 wow fadeInUp" data-wow-duration="1500ms">Comprehensive Distribution Services</h5>
                         
