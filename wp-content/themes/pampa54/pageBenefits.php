@@ -1,15 +1,14 @@
 <?php /* Template Name: Benefits */ ?>
 <?php get_header(); ?>
-        <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slide-background.png);"></div>
-            <div class="container">
-                <h6 class="sec-title__tagline" style="font-size: 25px;">Our Brand / Pampa54</h6>
-                <h2 class="sec-title__title" style="color: white; font-size:80px;">What we offer</h2>
-            </div>
-        </section>
-
+        
        
         <section class="about-three section-space" id="about">
+       
+            <div class="sec-title sec-title--center">
+                    <h6 class="sec-title__tagline">Our Brand / Pampa54</h6>
+                    <h2 class="sec-title__title" style=" font-size:80px; ">What we offer</h2>
+                </div>
+       
     <div class="container">
         <div class="row gutter-y-60 d-flex align-items-center">
             <!-- Imagen -->

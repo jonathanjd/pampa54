@@ -82,24 +82,24 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="main-header__right__inner">
+                        <div class="main-header__right__inner" style="background-color: #000; text-align:center; color:#fff; text-decoration:none;">
                             <div class="main-header__right__left">
                                 <nav class="main-header__nav main-menu">
-                                    <ul class="main-menu__list">
+                                    <ul class="main-menu__list" style="display: flex; margin:  0 20px; padding: 0 50px; list-style: none;">
 
                                     <li>
-                                        <a href="<?php echo _HOMEURL_; ?>">Home</a>
+                                        <a href="<?php echo _HOMEURL_; ?>" style="color: #fff;">Home</a>
                                     </li>
 									<li class="dropdown active">
-                                        <a href="#">Our Company</a>
+                                        <a href="#" style="color: #fff;">Our Company</a>
                                         <ul>
-                                            <li><a href="<?php echo _ABOUTURL_; ?>">About Us</a></li>
+                                            <li><a href="<?php echo _ABOUTURL_; ?>" >About Us</a></li>
                                             <li><a href="<?php echo _MISSIONURL_; ?>">Our Mission</a></li>
                                             <li><a href="<?php echo _FEATUREURL_; ?>">Our Services</a></li>
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="#">Our Brand</a>
+                                        <a href="#" style="color: #fff;">Our Brand</a>
                                         <ul>
                                             <li><a href="<?php echo _PAMPA54URL_; ?>">Pampa54</a></li>
                                             <!-- <li><a href="<?php echo _MANIFESTOURL_; ?>">Manifesto</a></li>
@@ -108,7 +108,7 @@
                                         </ul>
                                     </li>
 									<li class="dropdown">
-                                        <a href="<?php echo _PRODUCTSURL_; ?>">Our Products</a>
+                                        <a href="<?php echo _PRODUCTSURL_; ?>" style="color: #fff;">Our Products</a>
                                         <ul>
                                             <li><a href="<?php echo _SAUSAGEURL_; ?>">Our Chorizos</a></li>
                                             <li><a href="<?php echo _MEATCUTSURL_; ?>">Our Beef</a></li>
@@ -116,7 +116,7 @@
                                         </ul>
                                     </li> 
                                     <li class="dropdown">
-                                        <a href="<?php echo _CONTACTURL_; ?>">Contact Us</a>
+                                        <a href="<?php echo _CONTACTURL_; ?>" style="color: #fff; " >Contact Us</a>
                                     </li>
                                 </ul>
                                 </nav>

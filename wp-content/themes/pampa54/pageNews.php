@@ -2,6 +2,7 @@
 <?php get_header(); ?>
         <section class="page-header">
             <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
+           
             <div class="container">
                 <h2 class="page-header__title">News</h2>
                 <ul class="pampa-breadcrumb list-unstyled">
@@ -9,12 +10,62 @@
                     <li><span>About us</span></li>
                 </ul>
             </div>
+            
         </section>
 
-       
+        <div class="main-header__right__inner" style="background-color: #000; text-align:center; color:#fff;">
+                            <div class="main-header__right__left">
+                                <nav class="main-header__nav main-menu">
+                                    <ul class="main-menu__list">
+
+                                    <li>
+                                        <a href="<?php echo _HOMEURL_; ?>">Home</a>
+                                    </li>
+									<li class="dropdown active">
+                                        <a href="#">Our Company</a>
+                                        <ul>
+                                            <li><a href="<?php echo _ABOUTURL_; ?>">About Us</a></li>
+                                            <li><a href="<?php echo _MISSIONURL_; ?>">Our Mission</a></li>
+                                            <li><a href="<?php echo _FEATUREURL_; ?>">Our Services</a></li>
+                                        </ul>
+                                    </li>
+									<li class="dropdown">
+                                        <a href="#">Our Brand</a>
+                                        <ul>
+                                            <li><a href="<?php echo _PAMPA54URL_; ?>">Pampa54</a></li>
+                                            <!-- <li><a href="<?php echo _MANIFESTOURL_; ?>">Manifesto</a></li>
+                                            <li><a href="<?php echo _BRANDPURPOSEURL_; ?>">Brand Purpose</a></li> -->
+                                            <li><a href="<?php echo _BENEFITSURL_; ?>">What we offer</a></li>
+                                        </ul>
+                                    </li>
+									<li class="dropdown">
+                                        <a href="<?php echo _PRODUCTSURL_; ?>">Our Products</a>
+                                        <ul>
+                                            <li><a href="<?php echo _SAUSAGEURL_; ?>">Our Chorizos</a></li>
+                                            <li><a href="<?php echo _MEATCUTSURL_; ?>">Our Beef</a></li>
+											<li><a href="<?php echo _CATALOGSURL_; ?>">Catalogs</a></li>
+                                        </ul>
+                                    </li> 
+                                    <li class="dropdown">
+                                        <a href="<?php echo _CONTACTURL_; ?>">Contact Us</a>
+                                    </li>
+                                </ul>
+                                </nav>
+                            </div>
+                            <div class="main-header__right__right" style="margin-right: 20px;">
+                                <div class="mobile-nav__btn mobile-nav__toggler">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                              
+                            </div>
+                        </div>
 
         <section class="about-three section-space" id="about">
+            
             <div class="container">
+                
                 <div class="row gutter-y-60">
                     <div class="col-lg-4 wow fadeInLeft" data-wow-duration="1500ms">
                     <img src="<?php echo get_template_directory_uri();?>/assets/images/gallery/gallery-instagram-1.jpg" alt="" class="about-three__image__two">

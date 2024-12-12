@@ -17,21 +17,16 @@
     }
 </style>
 
-        <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slide-background.png);"></div>
-            <div class="container">
-                <h6 class="sec-title__tagline" style="font-size: 25px;">Pampa54</h6>
-                <h2 class="sec-title__title" style="color: white; font-size:80px;">Contact Us</h2>
-            </div>
-        </section>
+   
 
         <section class="contact-page section-space-top">
             <div class="container">
-                <!--<div class="sec-title sec-title--center">
+                <div class="sec-title sec-title--center">
                     <h6 class="sec-title__tagline">Pampa54</h6>
                     <h2 class="sec-title__title">Contact Us</h2>
-                </div>-->
+                </div>
                 <div class="contact-page__wrapper">
+                
                     <div class="contact-page__content">
                         <div class="contact-page__sec-title">
                             <h2 class="contact-page__title">Get In Touch</h2>

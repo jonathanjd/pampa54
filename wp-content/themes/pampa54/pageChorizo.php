@@ -1,17 +1,19 @@
 <?php /* Template Name: Chorizo */ ?>
 <?php get_header(); ?>
-        <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
-            <div class="container">
-                <h2 class="page-header__title">Chorizo</h2>
-                <ul class="pampa-breadcrumb list-unstyled">
-                    <li><a href="<?php echo _HOMEURL_; ?>">Home</a></li>
-                    <li><span>Products</span></li>
-                </ul>
-            </div>
-        </section>
+      
 
         <section class="product-details section-space">
+        
+  
+        <div class="container">
+                <div class="sec-title sec-title--center">
+                    <h6 class="sec-title__tagline">Our Products / Pampa54</h6>
+                    <h2 class="sec-title__title" style=" font-size:80px; ">Chorizos</h2>
+                </div>
+       
+               
+                
+           
             <div class="container">
                 <div class="row gutter-y-50">
                     <div class="col-lg-5 col-xl-6 wow fadeInLeft" data-wow-delay="200ms">

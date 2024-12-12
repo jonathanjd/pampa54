@@ -1,17 +1,13 @@
 <?php /* Template Name: Our Company */ ?>
 <?php get_header(); ?>
-        <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/bread.jpg);"></div>
-            <div class="container">
-                <h2 class="page-header__title">Our Company</h2>
-                <ul class="pampa-breadcrumb list-unstyled">
-                    <li><a href="<?php echo _HOMEURL_; ?>">Home</a></li>
-                    <li><span>About us</span></li>
-                </ul>
-            </div>
-        </section>
+        
 
         <section class="about-three section-space" id="about">
+        <div class="sec-title sec-title--center">
+                    <h6 class="sec-title__tagline"> Pampa54</h6>
+                    <h2 class="sec-title__title" style=" font-size:80px; ">Our Company</h2>
+                </div>
+       
             <div class="container">
                 <div class="row gutter-y-60">
                     <div class="col-lg-4 wow fadeInLeft" data-wow-duration="1500ms">

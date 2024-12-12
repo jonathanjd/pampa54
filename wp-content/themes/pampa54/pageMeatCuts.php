@@ -4,22 +4,15 @@
             /* Importa la fuente manuscrita de Google Fonts */
             @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
         </style>
-        <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/backgrounds/slide-background.png);"></div>
-            <div class="container">
-                <h6 class="sec-title__tagline" style="font-size: 25px;">Our Products / Pampa54</h6>
-                <h2 class="sec-title__title" style="color: white; font-size:80px;">OUR BEEF</h2>
-                <h3 style="font-family: 'Parisienne', cursive; color: white;">of Argentine Angus Meat</h3>
-            </div>
-        </section>
+      
 
         <section class="team-two section-space-two" id="team">
             <div class="container">
                 <div class="sec-title sec-title--center">
-                    <!--<h6 class="sec-title__tagline">From the Pampas to your grill</h6>-->
-                    <!--<h6 class="sec-title__tagline">Our Products / Pampa54</h6>
-                    <h2 class="sec-title__title">Benefits and Advantages</h2>
-                    <h3 style="font-family: 'Parisienne', cursive;">of Argentine Angus Meat</h3>-->
+                   
+                    <h6 class="sec-title__tagline">Our Products / Pampa54</h6>
+                    <h2 class="sec-title__title">Our Beef</h2>
+                    <h3 style="font-family: 'Parisienne', cursive;">of Argentine Angus Meat</h3>
                 </div>
                 <div class="team-two__item-wrapper">
                     <div class="team-two__item wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
