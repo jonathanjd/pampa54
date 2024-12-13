@@ -38,7 +38,7 @@
                                 After reviewing, feel free to contact us with any questions or to place an order. We are here to assist you and ensure you find the perfect products for your needs!
                             </p>
                             <div class="about-one__inner">
-                                <h5 class="about-one__info-title">DOWNLOAD CATALOG BEEF CUTS</h5>                                
+                                <h5 class="about-one__info-title">DOWNLOAD CATALOG MEAT CUTS PRODUCTS</h5>                                
                             </div>
                             <div class="about-one__bottom">
                                 <a target="_blank" href="#" class="pampa-btn">
