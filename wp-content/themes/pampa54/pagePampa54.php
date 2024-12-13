@@ -37,11 +37,11 @@
                                         <div class="why-choose-three__card__content">
                                             <h4 class="why-choose-three__card__title">Manifesto</h4>
                                         </div>
-                                    </div><p class="why-choose-three__text" style="padding-top: 20px;"><a href="_HOMEURL_"><strong>PAMPA54</strong></a> is not just a brand; it's a commitment to
+                                    </div><p class="why-choose-three__text" style="padding-top: 20px;"><strong>PAMPA54</strong> is not just a brand; it's a commitment to
 delivering an unparalleled gastronomic experience.
 Elevate your culinary adventures with the premium
 quality, homemade heritage, natural ingredients,
-and unique Argentine flavor of <a href="_HOMEURL_"><strong>PAMPA54</strong></a> Authentic
+and unique Argentine flavor of <strong>PAMPA54</strong> Authentic
 Argentinean Chorizo line.
 </p>
                                 </div>
@@ -53,7 +53,7 @@ Argentinean Chorizo line.
                                         <div class="why-choose-three__card__content">
                                             <h4 class="why-choose-three__card__title">Our Purpose</h4>
                                         </div>
-                                    </div><p class="why-choose-three__text" style="padding-top: 20px;">At <a href="_HOMEURL_"><strong>PAMPA54</strong></a>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the shared 
+                                    </div><p class="why-choose-three__text" style="padding-top: 20px;">At <strong>PAMPA54</strong>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the shared 
 experience of savoring our authentic Argentinean chorizos.</p>
                                 </div>
                             </div>							
