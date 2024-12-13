@@ -4426,7 +4426,7 @@ h6 {
 .main-header__call__number {
     font-family: var(--pampa-heading-font, "Roboto Condensed", sans-serif);
     font-size: 16px;
-    color: var(--pampa-black, #1E1D1D);
+    color: var(--pampa-black, #fff);
     font-weight: 700;
     line-height: normal;
     text-transform: uppercase;
