@@ -176,7 +176,7 @@
                 </div>
                 <div class="item">
                     <div class="hero-slider-two__item">
-                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/products/chorizos-home.jpg);"></div>
+                        <div class="hero-slider-two__bg" style="background-image: url(<?php echo get_template_directory_uri();?>/assets/images/products/chorizos-home.png);"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-xxl-12 col-xl-10 col-lg-10 mx-auto">
