@@ -56,7 +56,7 @@
                     <div class="d-flex flex-column justify-content-center align-items-center" style="border-bottom: 3px solid #9a8349;">
                     <div class="about-three__experience__content"></div>
                     
-                        <img src="<?php echo get_template_directory_uri();?>/assets/images/products/chorizo-service.jpg" class="card-img-top" alt="Premium Quality">
+                        <img src="<?php echo get_template_directory_uri();?>/assets/images/products/chorizo-service-new.png" class="card-img-top" alt="Premium Quality">
                         
                             <h5 style="text-align:center; color: #fff; margin-bottom: 0;background-color: #1E1D1D; width: 100%;" class="py-2 wow fadeInUp" data-wow-duration="1500ms">Premium Quality</h5>
                         
