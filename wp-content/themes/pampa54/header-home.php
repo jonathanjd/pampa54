@@ -91,8 +91,8 @@
 									<li class="dropdown">
                                         <a href="#">Our Company</a>
                                         <ul>
-                                            <li><a href="<?php echo _ABOUTURL_; ?>">About Us</a></li>
-                                            <li><a href="<?php echo _MISSIONURL_; ?>">Our Mission</a></li>
+                                            <li><a href="<?php echo _ABOUTURL_; ?>">About Us / Our Mission</a></li>
+                                            <!-- <li><a href="<?php echo _MISSIONURL_; ?>">Our Mission</a></li> -->
                                             <li><a href=" <?php echo _FEATUREURL_;?>">Our Services</a></li>
                                         </ul>
                                     </li>
