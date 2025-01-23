@@ -27,9 +27,9 @@
                                 <h6 class="sec-title__tagline"><strong>PAMPA54</strong> A LEGACY OF QUALITY AND TRADITION</h6>
                                 <h2 class="sec-title__title">Connecting people<br> in every bite</h2>
                             </div>
-                            <p class="about-three__text"><strong>PAMPA54</strong> is a company founded by a visionary entrepreneur driven by passion, integrity, and a deep-rooted connection to the world of meat.<strong> Pampa5</strong>4 is a brand with Argentine roots that offers an authentic line of gourmet chorizos, made from a traditional recipe 
+                            <p class="about-three__text"><strong>PAMPA54</strong> is a company founded by a visionary entrepreneur driven by passion, integrity, and a deep-rooted connection to the world of meat.<strong> PAMPA5</strong>4 is a brand with Argentine roots that offers an authentic line of gourmet chorizos, made from a traditional recipe 
 and natural ingredients. Ideal for complementing a asado, it never disappoints. At <strong>PAMPA54</strong>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the 
-shared experience of savoring our authentic Argentinean chorizos.</p>
+shared experience of savoring our authentic Argentine chorizos.</p>
                             <div class="about-three__info">
                                 
                             </div>
@@ -61,8 +61,8 @@ shared experience of savoring our authentic Argentinean chorizos.</p>
                     <div class="col-xl-6 col-lg-8 col-md-10 ms-auto">
                         <div class="why-choose-three__content">
                             <div class="sec-title @@extraClassName">
-                                <h6 class="sec-title__tagline">Argentinean / Authentic / Gourmet Chorizos</h6>
-                                <h2 class="sec-title__title"><a href="<?php echo _PAMPA54URL_;?>" style="color:black;">Pampa54 The Brand</a></h2>
+                                <h6 class="sec-title__tagline">Argentine / Authentic / Gourmet Chorizos</h6>
+                                <h2 class="sec-title__title"><a href="<?php echo _PAMPA54URL_;?>" style="color:black;">PAMPA54 The Brand</a></h2>
 								<!-- <p class="why-choose-three__text" style="color:#9a8349;"><strong>Teo Papazian</strong> is not just a name; he is a symbol of excellence in the meat industry. With a legacy spanning decades, Teo's dedication to quality and innovation has shaped <strong>PAMPA54</strong> into a trusted name among meat business. The journey began with a simple yet profound vision – to deliver the finest meat products that reflect the rich culinary heritage of Argentina</p> -->
                             </div>
                             
@@ -75,7 +75,7 @@ shared experience of savoring our authentic Argentinean chorizos.</p>
                                         <div class="why-choose-three__card__content">
                                             <h4 class="why-choose-three__card__title">Manifesto</h4>
                                         </div>
-                                    </div><p class="why-choose-three__text" style="padding-top: 20px;">In the heart of Argentina, where the Pampas stretch endlessly, and the art of Asado is a revered tradition, <strong>PAMPA54</strong> was born.
+                                    </div><p class="why-choose-three__text" style="padding-top: 20px;">In the heart of Argentine, where the Pampas stretch endlessly, and the art of Asado is a revered tradition, <strong>PAMPA54</strong> was born.
 A premium brand that encapsulates the spirit of the land, where Asado isn't just a meal; it's a sacred ceremony that unites friends and family.</p>
                                 </div>
                                 <div class="col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
@@ -87,7 +87,7 @@ A premium brand that encapsulates the spirit of the land, where Asado isn't just
                                             <h4 class="why-choose-three__card__title">Our Purpose</h4>
                                         </div>
                                     </div><p class="why-choose-three__text" style="padding-top: 20px;">At <strong>PAMPA54</strong>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the shared 
-experience of savoring our authentic Argentinean chorizos.</p>
+experience of savoring our authentic Argentine chorizos.</p>
                                 </div>
                             </div>							
                         </div>

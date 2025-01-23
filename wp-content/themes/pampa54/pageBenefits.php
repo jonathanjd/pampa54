@@ -5,7 +5,7 @@
         <section class="about-three section-space" id="about">
        
             <div class="sec-title sec-title--center">
-                    <h6 class="sec-title__tagline">Our Brand / Pampa54</h6>
+                    <h6 class="sec-title__tagline">Our Brand / PAMPA54</h6>
                     <h2 class="sec-title__title" style=" font-size:80px; ">What we offer</h2>
                 </div>
        
@@ -30,7 +30,7 @@
                         </div>
                     </div>
                     <p class="why-choose-three__text" style="padding-top: 20px;">
-                    Enjoy the genuine taste of Argentinean chorizos, crafted with traditional recipes and high-quality ingredients.
+                    Enjoy the genuine taste of Argentine chorizos, crafted with traditional recipes and high-quality ingredients.
                     </p>
                 </div>
                 
@@ -45,7 +45,7 @@
                         </div>
                     </div>
                     <p class="why-choose-three__text" style="padding-top: 20px;">
-                    With over 30 years of expertise and Argentinean roots, PAMPA54 guarantees consistent quality and flavor in every product.
+                    With over 30 years of expertise and Argentine roots, PAMPA54 guarantees consistent quality and flavor in every product.
                     </p>
                 </div>
             </div>

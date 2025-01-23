@@ -17,7 +17,7 @@
                             <h4 class="about-three__text">A premium meat distribution company, located in Miami, Fl, US. </h4>
                         <p class="about-three__text" style="text-align: justify;"><strong>PAMPA54</strong> is a company founded by a visionary entrepreneur driven by passion, integrity, and a deep-rooted connection to the world of meat.<br><br>
                                                      At <strong>PAMPA54</strong>, we pride ourselves on offering only the highest quality meat products. Our selection features the renowned Argentine Angus beef, celebrated globally for its superior marbling, tenderness, and rich flavor. We ensure that each cut meets our rigorous standards.<br><br>
-                                                     <strong>Pampa54</strong>, with Argentine roots, offers an authentic line of gourmet chorizos, made from a traditional recipe and natural ingredients. Ideal for complementing an “asado”, it never disappoints.<br>
+                                                     <strong>PAMPA54</strong>, with Argentine roots, offers an authentic line of gourmet chorizos, made from a traditional recipe and natural ingredients. Ideal for complementing an “asado”, it never disappoints.<br>
                         </p>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
         <hr>
         <section>
             <div class="sec-title sec-title--center">
-                <h6 class="sec-title__tagline">Our Company / Pampa54</h6>
+                <h6 class="sec-title__tagline">Our Company / PAMPA54</h6>
                 <h2 class="sec-title__title" style=" font-size:80px; ">Our  Mission</h2>
             </div>
        
@@ -39,7 +39,7 @@
                     </div>
                     <div class="col-lg-8 wow fadeInRight" data-wow-duration="1500ms">
                         <div class="about-three__content">
-                            <p class="about-three__text" style="text-align: justify;">At <b>PAMPA54</b>, our mission is to bring the authentic taste of Argentina’s finest beef and Argentinean Gourmet chorizos to the United States. </p>         
+                            <p class="about-three__text" style="text-align: justify;">At <b>PAMPA54</b>, our mission is to bring the authentic taste of Argentina’s finest beef and Argentine Gourmet chorizos to the United States. </p>         
                         <p>Founded by a passionate and visionary entrepreneur, <b>PAMPA54</b> is driven by a commitment to integrity and a deep respect for the art of fine meats and rooted in a legacy of quality, tradition, and excellence. We provide only the highest quality products.</p>
                         </div>
                     </div>

@@ -10,7 +10,7 @@
             <div class="container">
                 <div class="sec-title sec-title--center">
                    
-                    <h6 class="sec-title__tagline">Our Products / Pampa54</h6>
+                    <h6 class="sec-title__tagline">Our Products / PAMPA54</h6>
                     <h2 class="sec-title__title">Our Beef</h2>
                     <h3 style="font-family: 'Parisienne', cursive;">of Argentine Angus Meat</h3>
                 </div>

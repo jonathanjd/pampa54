@@ -22,7 +22,7 @@
         <section class="contact-page section-space-top">
             <div class="container">
                 <div class="sec-title sec-title--center">
-                    <h6 class="sec-title__tagline">Pampa54</h6>
+                    <h6 class="sec-title__tagline">PAMPA54</h6>
                     <h2 class="sec-title__title">Contact Us</h2>
                 </div>
                 <div class="contact-page__wrapper">
@@ -30,7 +30,7 @@
                     <div class="contact-page__content">
                         <div class="contact-page__sec-title">
                             <h2 class="contact-page__title">Get In Touch</h2>
-                            <p class="contact-page__text">If you are interested in our products and want to know more about Pampa 54, contact us and we will give you more information.</p>
+                            <p class="contact-page__text">If you are interested in our products and want to know more about <b>PAMPA54</b>, contact us and we will give you more information.</p>
                         </div>
                         <form id="emailForm" action="" method="post" class="contact-page__form form-one">
                             <div class="form-one__group">
@@ -129,7 +129,7 @@
                             <div class="contact-info__contact__content">
                                 <div class="contact-info__top">
                                     <h4 class="contact-info__title">Connect with Us</h4>
-                                    <p class="contact-info__text" style="color: #fff;">Find us on our social networks, and learn more about the authentic Pampa54 flavor!</p>
+                                    <p class="contact-info__text" style="color: #fff;">Find us on our social networks, and learn more about the authentic <b>PAMPA54</b> flavor!</p>
                                 </div>
                                 <div class="contact-info__contact-list">
                                     <div class="contact-info__contact-list__item">

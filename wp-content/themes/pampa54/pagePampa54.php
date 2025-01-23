@@ -23,8 +23,8 @@
                     <div class="col-xl-6 col-lg-8 col-md-10 ms-auto">
                         <div class="why-choose-three__content">
                             <div class="sec-title @@extraClassName">
-                                <h6 class="sec-title__tagline">Argentinean / Authentic / Gourmet Chorizos</h6>
-                                <h2 class="sec-title__title">Taste Tradition, Quality and Uniqueness. Taste Pampa54!</h2>
+                                <h6 class="sec-title__tagline">Argentine / Authentic / Gourmet Chorizos</h6>
+                                <h2 class="sec-title__title">Taste Tradition, Quality and Uniqueness. Taste PAMPA54!</h2>
 								
                             </div>
                             
@@ -42,7 +42,7 @@ delivering an unparalleled gastronomic experience.
 Elevate your culinary adventures with the premium
 quality, homemade heritage, natural ingredients,
 and unique Argentine flavor of <strong>PAMPA54</strong> Authentic
-Argentinean Chorizo line.
+Argentine Chorizo line.
 </p>
                                 </div>
                                 <div class="col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
@@ -54,7 +54,7 @@ Argentinean Chorizo line.
                                             <h4 class="why-choose-three__card__title">Our Purpose</h4>
                                         </div>
                                     </div><p class="why-choose-three__text" style="padding-top: 20px;">At <strong>PAMPA54</strong>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the shared 
-experience of savoring our authentic Argentinean chorizos.</p>
+experience of savoring our authentic Argentine chorizos.</p>
                                 </div>
                             </div>							
                         </div>

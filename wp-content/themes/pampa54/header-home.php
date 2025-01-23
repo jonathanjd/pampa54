@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>:: Pampa54 ::</title>
+    <title>:: PAMPA54 ::</title>
     <meta name="description" content="" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -29,6 +29,8 @@
    
     <link rel="stylesheet" href="<?php echo get_template_directory_uri();?>/assets/css/style.css" />
 	<?php wp_head(); ?>
+
+    <link rel="icon" type="image/png" href="<?php echo get_template_directory_uri();?>/assets/images/logo-light.png" sizes="96x96" />
 </head>
 
 <body class="custom-cursor">
@@ -99,7 +101,7 @@
 									<li class="dropdown">
                                         <a href="#">Our Brand</a>
                                         <ul>
-                                            <li><a href="<?php echo _PAMPA54URL_; ?>">Pampa54</a></li>
+                                            <li><a href="<?php echo _PAMPA54URL_; ?>">PAMPA54</a></li>
                                             <!-- <li><a href="<?php echo _MANIFESTOURL_; ?>">Manifesto</a></li>
                                             <li><a href="<?php echo _BRANDPURPOSEURL_; ?>">Brand Purpose</a></li> -->
                                             <li><a href="<?php echo _BENEFITSURL_; ?>">What we offer</a></li>
@@ -166,7 +168,7 @@
                                             <span class="hero-slider-two__sub-title__border hero-slider-two__sub-title__border--right"></span>
                                         </h5>
                                         <h2 class="hero-slider-two__title">
-                                            Pampa54
+                                            PAMPA54
                                         </h2>
                                     </div>
                                 </div>
