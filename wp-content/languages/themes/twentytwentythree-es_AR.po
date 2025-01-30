@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Themes - Twenty Twenty-Three package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-01 04:14:57+0000\n"
+"PO-Revision-Date: 2024-10-16 12:15:25+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,6 +22,26 @@ msgstr "Twenty Twenty-Three está diseñado para aprovechar las nuevas herramien
 #, gp-priority: high
 msgid "Twenty Twenty-Three"
 msgstr "Twenty Twenty-Three"
+
+#: patterns/post-meta.php
+msgctxt "Pattern description"
+msgid "Post meta information with separator on the top."
+msgstr "Información de metadatos de la entrada con separador en la parte superior."
+
+#: patterns/footer-default.php
+msgctxt "Pattern description"
+msgid "Footer with site title and powered by WordPress."
+msgstr "Pie de página con el título del sitio y el texto: funciona con WordPress."
+
+#: patterns/call-to-action.php
+msgctxt "Pattern description"
+msgid "Left-aligned text with a CTA button and a separator."
+msgstr "Texto alineado a la izquierda con un botón CTA y un separador."
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments Template Part"
+msgstr "Parte de plantilla de comentarios"
 
 #: styles/block-out.json styles/canary.json styles/pilgrimage.json
 #: styles/sherbet.json

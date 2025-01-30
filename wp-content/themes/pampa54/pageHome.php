@@ -27,8 +27,8 @@
                                 <h6 class="sec-title__tagline"><strong>PAMPA54</strong> A LEGACY OF QUALITY AND TRADITION</h6>
                                 <h2 class="sec-title__title">Connecting people<br> in every bite</h2>
                             </div>
-                            <p class="about-three__text"><strong>PAMPA54</strong> is a company founded by a visionary entrepreneur driven by passion, integrity, and a deep-rooted connection to the world of meat.<strong> PAMPA5</strong>4 is a brand with Argentine roots that offers an authentic line of gourmet chorizos, made from a traditional recipe 
-and natural ingredients. Ideal for complementing a asado, it never disappoints. At <strong>PAMPA54</strong>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the 
+                            <p class="about-three__text"><strong>PAMPA54</strong> was founded by a visionary entrepreneur driven by passion, integrity, and a deep connecting to the world of meat.<strong> PAMPA5</strong>4 is a brand with Argentine roots that offers an authentic line of gourmet chorizos, made from a traditional recipe 
+and natural ingredients. Ideal for complementing an asado, it never disappoints. At <strong>PAMPA54</strong>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the 
 shared experience of savoring our authentic Argentine chorizos.</p>
                             <div class="about-three__info">
                                 
@@ -86,7 +86,7 @@ A premium brand that encapsulates the spirit of the land, where Asado isn't just
                                         <div class="why-choose-three__card__content">
                                             <h4 class="why-choose-three__card__title">Our Purpose</h4>
                                         </div>
-                                    </div><p class="why-choose-three__text" style="padding-top: 20px;">At <strong>PAMPA54</strong>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the shared 
+                                    </div><p class="why-choose-three__text" style="padding-top: 20px;">At <strong>PAMPA54</strong>, we aim is to be the bridge that brings people together. We create moments of joy and unity through the shared 
 experience of savoring our authentic Argentine chorizos.</p>
                                 </div>
                             </div>							
@@ -130,7 +130,7 @@ experience of savoring our authentic Argentine chorizos.</p>
                                 <h3 class="team-two__name"><a href="<?php echo _MEATCUTSURL_; ?>">Beef</a></h3>
                             </div>
                             <div class="col-xl-5 col-lg-3">
-                                <span class="team-two__designation" style="text-transform: none;">At <strong>PAMPA54</strong>, we pride ourselves on offering only the highest quality meat products. Our selection features the renowned Argentine Angus beef, celebrated globally for its superior marbling, tenderness, and rich flavor. We ensure that each cut meets our rigorous standards.</span>
+                                <span class="team-two__designation" style="text-transform: none;">At <strong>PAMPA54</strong>, we pride ourselves on offering only the highest quality meat products. Our selection features the renowned Argentine Angus beef, celebrated worldwide for its superior marbling, tenderness, and rich flavor. We ensure that each cut meets our rigorous standards.</span>
                             </div>
                             <div class="col-xl-4 col-lg-3">
                                 <div class="team-two__image">

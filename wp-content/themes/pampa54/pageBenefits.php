@@ -87,7 +87,7 @@
                         </div>
                     </div>
                     <p class="why-choose-three__text" style="padding-top: 20px;">
-                    Dedicated to delivering an unparalleled gastronomic experience, ensuring our customers' satisfaction with every purchase.
+                    We are dedicated to delivering an unparalleled culinary experience. We ensure customer' satisfaction with every purchase.
                     </p>
                 </div>
             </div>

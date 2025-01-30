@@ -12,7 +12,7 @@ if ( ! defined( '_S_VERSION' ) ) {
 	define( '_S_VERSION', '1.0.0' );
 }
 
-define( '_EMAIL_', 'info@pampa54.com' );
+define( '_EMAIL_', 'info@pampa43.com' );
 define( '_PHONE_', '+1 (786) 326-9846' );
 define( '_ADDRESS_', '5930 NW 99th Ave, Suite 11. Doral, Fl 33178. United States' );
 

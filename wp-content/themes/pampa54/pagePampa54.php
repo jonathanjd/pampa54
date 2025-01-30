@@ -24,7 +24,7 @@
                         <div class="why-choose-three__content">
                             <div class="sec-title @@extraClassName">
                                 <h6 class="sec-title__tagline">Argentine / Authentic / Gourmet Chorizos</h6>
-                                <h2 class="sec-title__title">Taste Tradition, Quality and Uniqueness. Taste PAMPA54!</h2>
+                                <h2 class="sec-title__title">Taste Tradition, Quality, and Uniqueness.</h2>
 								
                             </div>
                             
@@ -53,7 +53,7 @@ Argentine Chorizo line.
                                         <div class="why-choose-three__card__content">
                                             <h4 class="why-choose-three__card__title">Our Purpose</h4>
                                         </div>
-                                    </div><p class="why-choose-three__text" style="padding-top: 20px;">At <strong>PAMPA54</strong>, our purpose is to be the bridge that brings people together, creating moments of joy and unity through the shared 
+                                    </div><p class="why-choose-three__text" style="padding-top: 20px;">At <strong>PAMPA54</strong>, we aim to be the bridge that brings people together. We create moments of joy and unity through the shared 
 experience of savoring our authentic Argentine chorizos.</p>
                                 </div>
                             </div>							
